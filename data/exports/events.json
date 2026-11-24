@@ -1,0 +1,242 @@
+[
+  {
+    "event_id":"EVT_001",
+    "event_name":"Quantum Algorithms Hands-on Workshop",
+    "club_name":"ACM Student Chapter",
+    "date":"2024-02-20",
+    "category":"Technical",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_002",
+    "event_name":"Applied Cryptography Deep Dive Seminar",
+    "club_name":"ACM Student Chapter",
+    "date":"2024-02-24",
+    "category":"Technical",
+    "capacity":100
+  },
+  {
+    "event_id":"EVT_003",
+    "event_name":"LLMs & Generative AI Hackathon",
+    "club_name":"ACM Student Chapter",
+    "date":"2024-04-23",
+    "category":"Technical",
+    "capacity":100
+  },
+  {
+    "event_id":"EVT_004",
+    "event_name":"Quantum Algorithms Open Source Sprint",
+    "club_name":"AI & Machine Learning Club",
+    "date":"2024-01-25",
+    "category":"Technical",
+    "capacity":100
+  },
+  {
+    "event_id":"EVT_005",
+    "event_name":"Smart Contracts & Web3 Capture The Flag (CTF)",
+    "club_name":"AI & Machine Learning Club",
+    "date":"2024-02-17",
+    "category":"Technical",
+    "capacity":120
+  },
+  {
+    "event_id":"EVT_006",
+    "event_name":"Kubernetes & DevOps Bootcamp",
+    "club_name":"AI & Machine Learning Club",
+    "date":"2024-03-24",
+    "category":"Technical",
+    "capacity":120
+  },
+  {
+    "event_id":"EVT_007",
+    "event_name":"AI & Machine Learning Club: Annual Cultural Jam Night",
+    "club_name":"AI & Machine Learning Club",
+    "date":"2024-04-07",
+    "category":"Cultural",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_008",
+    "event_name":"Quantum Algorithms Tech Talk",
+    "club_name":"AI & Machine Learning Club",
+    "date":"2024-04-22",
+    "category":"Technical",
+    "capacity":150
+  },
+  {
+    "event_id":"EVT_009",
+    "event_name":"AI & Machine Learning Club: Spring Unplugged Acoustic Fest",
+    "club_name":"AI & Machine Learning Club",
+    "date":"2024-05-20",
+    "category":"Cultural",
+    "capacity":80
+  },
+  {
+    "event_id":"EVT_010",
+    "event_name":"LLMs & Generative AI Tech Talk",
+    "club_name":"Google Developer Student Club",
+    "date":"2024-02-03",
+    "category":"Technical",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_011",
+    "event_name":"React & Next.js Open Source Sprint",
+    "club_name":"Google Developer Student Club",
+    "date":"2024-03-21",
+    "category":"Technical",
+    "capacity":100
+  },
+  {
+    "event_id":"EVT_012",
+    "event_name":"Computer Vision with PyTorch Kaggle Challenge Prep",
+    "club_name":"Google Developer Student Club",
+    "date":"2024-03-22",
+    "category":"Technical",
+    "capacity":150
+  },
+  {
+    "event_id":"EVT_013",
+    "event_name":"Kubernetes & DevOps Bootcamp",
+    "club_name":"Google Developer Student Club",
+    "date":"2024-05-16",
+    "category":"Technical",
+    "capacity":100
+  },
+  {
+    "event_id":"EVT_014",
+    "event_name":"Kubernetes & DevOps Deep Dive Seminar",
+    "club_name":"CyberSecurity & Ethical Hacking Guild",
+    "date":"2024-02-22",
+    "category":"Technical",
+    "capacity":150
+  },
+  {
+    "event_id":"EVT_015",
+    "event_name":"Smart Contracts & Web3 Paper Presentation",
+    "club_name":"CyberSecurity & Ethical Hacking Guild",
+    "date":"2024-02-29",
+    "category":"Technical",
+    "capacity":80
+  },
+  {
+    "event_id":"EVT_016",
+    "event_name":"Computer Vision with PyTorch Tech Talk",
+    "club_name":"CyberSecurity & Ethical Hacking Guild",
+    "date":"2024-03-27",
+    "category":"Technical",
+    "capacity":80
+  },
+  {
+    "event_id":"EVT_017",
+    "event_name":"Smart Contracts & Web3 Tech Talk",
+    "club_name":"CyberSecurity & Ethical Hacking Guild",
+    "date":"2024-04-02",
+    "category":"Technical",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_018",
+    "event_name":"Autonomous Navigation & ROS Paper Presentation",
+    "club_name":"CyberSecurity & Ethical Hacking Guild",
+    "date":"2024-04-06",
+    "category":"Technical",
+    "capacity":100
+  },
+  {
+    "event_id":"EVT_019",
+    "event_name":"Applied Cryptography Cloud Architecture Clinic",
+    "club_name":"CyberSecurity & Ethical Hacking Guild",
+    "date":"2024-05-07",
+    "category":"Technical",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_020",
+    "event_name":"Applied Cryptography Cloud Architecture Clinic",
+    "club_name":"Web Development & Cloud Society",
+    "date":"2024-02-20",
+    "category":"Technical",
+    "capacity":150
+  },
+  {
+    "event_id":"EVT_021",
+    "event_name":"Autonomous Navigation & ROS Kaggle Challenge Prep",
+    "club_name":"Web Development & Cloud Society",
+    "date":"2024-03-14",
+    "category":"Technical",
+    "capacity":80
+  },
+  {
+    "event_id":"EVT_022",
+    "event_name":"Web Development & Cloud Society: Street Theater Showcase",
+    "club_name":"Web Development & Cloud Society",
+    "date":"2024-04-05",
+    "category":"Cultural",
+    "capacity":120
+  },
+  {
+    "event_id":"EVT_023",
+    "event_name":"Kubernetes & DevOps Code Sprint",
+    "club_name":"Web Development & Cloud Society",
+    "date":"2024-04-10",
+    "category":"Technical",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_024",
+    "event_name":"React & Next.js Paper Presentation",
+    "club_name":"Web Development & Cloud Society",
+    "date":"2024-05-24",
+    "category":"Technical",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_025",
+    "event_name":"Applied Cryptography Deep Dive Seminar",
+    "club_name":"Robotics & IoT Innovation Lab",
+    "date":"2024-01-24",
+    "category":"Technical",
+    "capacity":120
+  },
+  {
+    "event_id":"EVT_026",
+    "event_name":"React & Next.js Capture The Flag (CTF)",
+    "club_name":"Robotics & IoT Innovation Lab",
+    "date":"2024-01-30",
+    "category":"Technical",
+    "capacity":60
+  },
+  {
+    "event_id":"EVT_027",
+    "event_name":"React & Next.js Code Sprint",
+    "club_name":"Robotics & IoT Innovation Lab",
+    "date":"2024-02-17",
+    "category":"Technical",
+    "capacity":120
+  },
+  {
+    "event_id":"EVT_028",
+    "event_name":"Smart Contracts & Web3 Hands-on Workshop",
+    "club_name":"Robotics & IoT Innovation Lab",
+    "date":"2024-02-26",
+    "category":"Technical",
+    "capacity":80
+  },
+  {
+    "event_id":"EVT_029",
+    "event_name":"Kubernetes & DevOps Code Sprint",
+    "club_name":"Robotics & IoT Innovation Lab",
+    "date":"2024-04-03",
+    "category":"Technical",
+    "capacity":80
+  },
+  {
+    "event_id":"EVT_030",
+    "event_name":"Computer Vision with PyTorch Code Sprint",
+    "club_name":"Robotics & IoT Innovation Lab",
+    "date":"2024-05-16",
+    "category":"Technical",
+    "capacity":150
+  }
+]

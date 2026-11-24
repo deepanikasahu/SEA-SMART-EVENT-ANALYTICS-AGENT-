@@ -1,0 +1,31 @@
+# ─── v2 Scoring Rubric Configuration ──────────────────────────────────────────
+# Weights must sum to 1.0. Edit this file to reconfigure scoring without touching code.
+
+scoring:
+  version: "2.0"
+  normalization_method: "min_max_0_100"   # Normalize each raw metric to 0-100 scale
+
+  weights:
+    engagement_quality: 0.35    # Avg feedback rating — primary voice of the student
+    attendance_rate: 0.25       # Actual turnout / registrations — commitment signal
+    consistency: 0.20           # Delivery vs planned events + turnout stability
+    reach: 0.15                 # Total unique registrations — community impact
+    activity_volume: 0.05       # Raw event count — intentionally lowest weight
+
+  # Consistency formula:
+  #   0.5 * min(1.0, actual_conducted / planned_events)
+  #   + 0.5 * (1.0 - 2 * turnout_std_dev_normalized)
+  consistency_formula:
+    delivery_weight: 0.5
+    stability_weight: 0.5
+
+  # Tie-break hierarchy (applied in order when composite scores are equal)
+  tie_break_order:
+    - engagement_quality        # 1st: student satisfaction
+    - attendance_rate           # 2nd: actual turnout
+    - completeness_score        # 3rd: data quality / transparency
+
+  rationale: >
+    Prioritizes student satisfaction (35%) and actual community turnout (25%)
+    combined with organizational reliability (20%) over raw reach (15%) and
+    pure event volume spam (5%). Tie-breaks reward engagement and data integrity.

@@ -1,0 +1,38 @@
+[
+  {
+    "club_name":"ACM Student Chapter",
+    "planned_events":6,
+    "faculty_lead":"Prof. Robert Vance",
+    "founded_year":2015
+  },
+  {
+    "club_name":"AI & Machine Learning Club",
+    "planned_events":5,
+    "faculty_lead":"Dr. Elena Rostova",
+    "founded_year":2015
+  },
+  {
+    "club_name":"Google Developer Student Club",
+    "planned_events":5,
+    "faculty_lead":"Prof. Kevin Patel",
+    "founded_year":2014
+  },
+  {
+    "club_name":"CyberSecurity & Ethical Hacking Guild",
+    "planned_events":6,
+    "faculty_lead":"Dr. Marcus Thorne",
+    "founded_year":2018
+  },
+  {
+    "club_name":"Web Development & Cloud Society",
+    "planned_events":5,
+    "faculty_lead":"Prof. Sarah Jenkins",
+    "founded_year":2019
+  },
+  {
+    "club_name":"Robotics & IoT Innovation Lab",
+    "planned_events":6,
+    "faculty_lead":"Dr. Anil Sharma",
+    "founded_year":2017
+  }
+]

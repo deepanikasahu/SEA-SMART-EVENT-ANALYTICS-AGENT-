@@ -1,0 +1,62 @@
+[
+  {
+    "rank": 1,
+    "club_name": "ACM Student Chapter",
+    "composite_score": 60.0,
+    "engagement_quality": 4.11,
+    "attendance_rate": 0.8134,
+    "consistency_raw": 0.6825,
+    "reach": 232,
+    "activity_volume": 3
+  },
+  {
+    "rank": 2,
+    "club_name": "CyberSecurity & Ethical Hacking Guild",
+    "composite_score": 53.15,
+    "engagement_quality": 3.93,
+    "attendance_rate": 0.777,
+    "consistency_raw": 0.9263,
+    "reach": 435,
+    "activity_volume": 6
+  },
+  {
+    "rank": 3,
+    "club_name": "Web Development & Cloud Society",
+    "composite_score": 50.95,
+    "engagement_quality": 3.9,
+    "attendance_rate": 0.8011,
+    "consistency_raw": 0.9253,
+    "reach": 372,
+    "activity_volume": 5
+  },
+  {
+    "rank": 4,
+    "club_name": "AI & Machine Learning Club",
+    "composite_score": 50.54,
+    "engagement_quality": 3.94,
+    "attendance_rate": 0.75,
+    "consistency_raw": 0.9201,
+    "reach": 527,
+    "activity_volume": 6
+  },
+  {
+    "rank": 5,
+    "club_name": "Robotics & IoT Innovation Lab",
+    "composite_score": 43.97,
+    "engagement_quality": 3.93,
+    "attendance_rate": 0.7333,
+    "consistency_raw": 0.9561,
+    "reach": 480,
+    "activity_volume": 6
+  },
+  {
+    "rank": 6,
+    "club_name": "Google Developer Student Club",
+    "composite_score": 16.61,
+    "engagement_quality": 3.89,
+    "attendance_rate": 0.751,
+    "consistency_raw": 0.7912,
+    "reach": 261,
+    "activity_volume": 4
+  }
+]

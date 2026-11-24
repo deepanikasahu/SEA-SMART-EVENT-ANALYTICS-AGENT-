@@ -1,0 +1,93 @@
+[
+  {
+    "id": "TC_01_standard_technical",
+    "description": "Standard technical query evaluating all in-scope technical events",
+    "query": "Analyze all technical events conducted last semester and tell me which clubs performed the best.",
+    "impute_missing": false,
+    "expected_status": "SUCCESS",
+    "expected_imputation_applied": false,
+    "expected_events_count": 27,
+    "expected_ranked_clubs_count": 6,
+    "expected_top_club": "AI & Machine Learning Club",
+    "independent_source": "Golden baseline tests/fixtures/seed42_entry_path_baseline.json (27 technical events, AI & ML Club #1 with composite score 73.14)"
+  },
+  {
+    "id": "TC_02_single_club",
+    "description": "Single-club performance inquiry for AI & Machine Learning Club",
+    "query": "How did AI & Machine Learning Club perform in technical events last semester?",
+    "impute_missing": false,
+    "expected_status": "SUCCESS",
+    "expected_imputation_applied": false,
+    "expected_events_count": 27,
+    "expected_ranked_clubs_count": 6,
+    "expected_top_club": "AI & Machine Learning Club",
+    "independent_source": "Golden baseline tests/fixtures/seed42_entry_path_baseline.json (27 technical events, AI & ML Club #1)"
+  },
+  {
+    "id": "TC_03_two_club_comparison",
+    "description": "Two-club comparative evaluation between ACM and AI & ML clubs",
+    "query": "Compare the performance of ACM Student Chapter and AI & Machine Learning Club in technical events last semester.",
+    "impute_missing": false,
+    "expected_status": "SUCCESS",
+    "expected_imputation_applied": false,
+    "expected_events_count": 27,
+    "expected_ranked_clubs_count": 6,
+    "expected_top_club": "AI & Machine Learning Club",
+    "independent_source": "Golden baseline tests/fixtures/seed42_entry_path_baseline.json (ACM #3 score 58.70 vs AI & ML #1 score 73.14)"
+  },
+  {
+    "id": "TC_04_time_window_change",
+    "description": "Narrowed time-window query evaluating events between 2024-02-01 and 2024-04-30",
+    "query": "Analyze technical events held between 2024-02-01 and 2024-04-30 and tell me which clubs performed best.",
+    "impute_missing": false,
+    "expected_status": "SUCCESS",
+    "expected_imputation_applied": false,
+    "expected_events_count": 20,
+    "expected_ranked_clubs_count": 6,
+    "expected_top_club": "CyberSecurity & Ethical Hacking Guild",
+    "independent_source": "Named DB query (category='Technical' AND date BETWEEN '2024-02-01' AND '2024-04-30'): 20 in-scope events; CyberSecurity Guild #1 (score 74.44, turnout 79.04%, feedback 3.96, reach 396 across 5 events) vs ACM Student Chapter #2 (score 62.51)"
+  },
+  {
+    "id": "TC_05_cultural_events",
+    "description": "Cultural events scope isolating non-technical university events",
+    "query": "Analyze all cultural events conducted last semester and tell me which clubs performed best.",
+    "impute_missing": false,
+    "expected_status": "SUCCESS",
+    "expected_imputation_applied": false,
+    "expected_events_count": 3,
+    "expected_ranked_clubs_count": 2,
+    "expected_top_club": "Web Development & Cloud Society",
+    "independent_source": "Named DB query (category='Cultural') and hand computation: 3 in-scope events (EVT_022 by Web Dev Society; EVT_007 & EVT_009 by AI & ML Club); Web Dev Society #1 (score 80.00, turnout 91.76%, feedback 4.12) vs AI & ML Club #2 (score 20.00, turnout 68.99%, feedback 3.77)"
+  },
+  {
+    "id": "TC_06_missing_date_impute_off",
+    "description": "Missing date bounds query with imputation OFF triggering FR1 clarification safeguard",
+    "query": "Tell me which clubs performed best.",
+    "impute_missing": false,
+    "expected_status": "needs_clarification",
+    "expected_imputation_applied": false,
+    "expected_ranked_clubs_count": 0,
+    "independent_source": "Clarification safeguard gate at agent/orchestrator.py:365-375 returning needs_clarification"
+  },
+  {
+    "id": "TC_07_missing_date_impute_on",
+    "description": "Missing date bounds query with imputation ON triggering FR1 gate without executing imputation",
+    "query": "Tell me which clubs performed best.",
+    "impute_missing": true,
+    "expected_status": "needs_clarification",
+    "expected_imputation_applied": false,
+    "expected_ranked_clubs_count": 0,
+    "expected_outcome": "The gate returns needs_clarification and imputation is not reached",
+    "independent_source": "Clarification safeguard gate at agent/orchestrator.py:365-375 returning needs_clarification without executing imputation"
+  },
+  {
+    "id": "TC_08_impossible_semester",
+    "description": "Impossible future semester (2031-01-01 to 2031-06-30) returning clean error/refusal with zero ranked clubs",
+    "query": "Analyze events held between 2031-01-01 and 2031-06-30 and rank the clubs.",
+    "impute_missing": false,
+    "expected_status": "ERROR",
+    "expected_imputation_applied": false,
+    "expected_ranked_clubs_count": 0,
+    "independent_source": "Named DB query on seed 42 events (date BETWEEN '2031-01-01' AND '2031-06-30'): 0 matching events returning ERROR"
+  }
+]

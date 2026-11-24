@@ -1,0 +1,31 @@
+event_id,event_name,club_name,date,category,capacity
+EVT_001,Quantum Algorithms Hands-on Workshop,ACM Student Chapter,2024-02-20,Technical,60
+EVT_002,Applied Cryptography Deep Dive Seminar,ACM Student Chapter,2024-02-24,Technical,100
+EVT_003,LLMs & Generative AI Hackathon,ACM Student Chapter,2024-04-23,Technical,100
+EVT_004,Quantum Algorithms Open Source Sprint,AI & Machine Learning Club,2024-01-25,Technical,100
+EVT_005,Smart Contracts & Web3 Capture The Flag (CTF),AI & Machine Learning Club,2024-02-17,Technical,120
+EVT_006,Kubernetes & DevOps Bootcamp,AI & Machine Learning Club,2024-03-24,Technical,120
+EVT_007,AI & Machine Learning Club: Annual Cultural Jam Night,AI & Machine Learning Club,2024-04-07,Cultural,60
+EVT_008,Quantum Algorithms Tech Talk,AI & Machine Learning Club,2024-04-22,Technical,150
+EVT_009,AI & Machine Learning Club: Spring Unplugged Acoustic Fest,AI & Machine Learning Club,2024-05-20,Cultural,80
+EVT_010,LLMs & Generative AI Tech Talk,Google Developer Student Club,2024-02-03,Technical,60
+EVT_011,React & Next.js Open Source Sprint,Google Developer Student Club,2024-03-21,Technical,100
+EVT_012,Computer Vision with PyTorch Kaggle Challenge Prep,Google Developer Student Club,2024-03-22,Technical,150
+EVT_013,Kubernetes & DevOps Bootcamp,Google Developer Student Club,2024-05-16,Technical,100
+EVT_014,Kubernetes & DevOps Deep Dive Seminar,CyberSecurity & Ethical Hacking Guild,2024-02-22,Technical,150
+EVT_015,Smart Contracts & Web3 Paper Presentation,CyberSecurity & Ethical Hacking Guild,2024-02-29,Technical,80
+EVT_016,Computer Vision with PyTorch Tech Talk,CyberSecurity & Ethical Hacking Guild,2024-03-27,Technical,80
+EVT_017,Smart Contracts & Web3 Tech Talk,CyberSecurity & Ethical Hacking Guild,2024-04-02,Technical,60
+EVT_018,Autonomous Navigation & ROS Paper Presentation,CyberSecurity & Ethical Hacking Guild,2024-04-06,Technical,100
+EVT_019,Applied Cryptography Cloud Architecture Clinic,CyberSecurity & Ethical Hacking Guild,2024-05-07,Technical,60
+EVT_020,Applied Cryptography Cloud Architecture Clinic,Web Development & Cloud Society,2024-02-20,Technical,150
+EVT_021,Autonomous Navigation & ROS Kaggle Challenge Prep,Web Development & Cloud Society,2024-03-14,Technical,80
+EVT_022,Web Development & Cloud Society: Street Theater Showcase,Web Development & Cloud Society,2024-04-05,Cultural,120
+EVT_023,Kubernetes & DevOps Code Sprint,Web Development & Cloud Society,2024-04-10,Technical,60
+EVT_024,React & Next.js Paper Presentation,Web Development & Cloud Society,2024-05-24,Technical,60
+EVT_025,Applied Cryptography Deep Dive Seminar,Robotics & IoT Innovation Lab,2024-01-24,Technical,120
+EVT_026,React & Next.js Capture The Flag (CTF),Robotics & IoT Innovation Lab,2024-01-30,Technical,60
+EVT_027,React & Next.js Code Sprint,Robotics & IoT Innovation Lab,2024-02-17,Technical,120
+EVT_028,Smart Contracts & Web3 Hands-on Workshop,Robotics & IoT Innovation Lab,2024-02-26,Technical,80
+EVT_029,Kubernetes & DevOps Code Sprint,Robotics & IoT Innovation Lab,2024-04-03,Technical,80
+EVT_030,Computer Vision with PyTorch Code Sprint,Robotics & IoT Innovation Lab,2024-05-16,Technical,150

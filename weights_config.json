@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "weights": {
+    "engagement_quality": 0.35,
+    "attendance_rate": 0.25,
+    "consistency": 0.20,
+    "reach": 0.15,
+    "activity_volume": 0.05
+  },
+  "rationale": "Prioritizes student satisfaction and event quality (engagement quality: 35%) and actual community turn-out (attendance rate: 25%) combined with organizational reliability (consistency: 20%) over raw registration reach (15%) and pure event quantity spam (activity volume: 5%).",
+  "normalization_method": "min_max_0_100",
+  "consistency_formula": "0.5 * min(1.0, actual_events / planned_events) + 0.5 * (1.0 - normalized_attendance_variance)"
+}

@@ -1,0 +1,825 @@
+feedback_id,event_id,student_id,rating,comment,submitted_at
+FB_00001,EVT_001,STU_1040,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-20 20:13
+FB_00002,EVT_001,STU_1013,4,"Well organized, high energy, and great Q&A session.",2024-02-20 19:13
+FB_00003,EVT_001,STU_1301,4,Outstanding speaker and very clear live coding examples!,2024-02-20 23:15
+FB_00004,EVT_001,STU_1193,4,Hands-on exercises helped cement the theory perfectly.,2024-02-20 19:53
+FB_00005,EVT_001,STU_1015,5,Outstanding speaker and very clear live coding examples!,2024-02-20 23:25
+FB_00006,EVT_001,STU_1023,4,Hands-on exercises helped cement the theory perfectly.,2024-02-20 19:36
+FB_00007,EVT_001,STU_1049,5,"Well organized, high energy, and great Q&A session.",2024-02-20 20:52
+FB_00008,EVT_001,STU_1316,4,"Well organized, high energy, and great Q&A session.",2024-02-20 22:18
+FB_00009,EVT_001,STU_1325,5,The problem statements were challenging and engaging.,2024-02-20 21:58
+FB_00010,EVT_001,STU_1185,4,The problem statements were challenging and engaging.,2024-02-20 23:46
+FB_00011,EVT_001,STU_1079,4,Hands-on exercises helped cement the theory perfectly.,2024-02-20 20:42
+FB_00012,EVT_001,STU_1229,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-20 19:25
+FB_00013,EVT_001,STU_1174,4,The problem statements were challenging and engaging.,2024-02-20 23:55
+FB_00014,EVT_001,STU_1274,3,"Good content, but ran slightly over the scheduled time.",2024-02-20 23:29
+FB_00015,EVT_001,STU_1063,4,Gained practical skills I can use for my resume project immediately.,2024-02-20 21:17
+FB_00016,EVT_001,STU_1176,4,"Well organized, high energy, and great Q&A session.",2024-02-20 21:48
+FB_00017,EVT_002,STU_1222,4,Outstanding speaker and very clear live coding examples!,2024-02-24 21:40
+FB_00018,EVT_002,STU_1210,3,"Good content, but ran slightly over the scheduled time.",2024-02-24 22:41
+FB_00019,EVT_002,STU_1055,3,"Good content, but ran slightly over the scheduled time.",2024-02-24 20:19
+FB_00020,EVT_002,STU_1142,5,Outstanding speaker and very clear live coding examples!,2024-02-24 20:17
+FB_00021,EVT_002,STU_1208,5,Hands-on exercises helped cement the theory perfectly.,2024-02-24 23:49
+FB_00022,EVT_002,STU_1090,3,"Decent event, venue was a bit crowded.",2024-02-24 22:38
+FB_00023,EVT_002,STU_1052,3,"Decent event, venue was a bit crowded.",2024-02-24 21:46
+FB_00024,EVT_002,STU_1349,4,Gained practical skills I can use for my resume project immediately.,2024-02-24 20:26
+FB_00025,EVT_002,STU_1170,4,Gained practical skills I can use for my resume project immediately.,2024-02-24 20:45
+FB_00026,EVT_002,STU_1195,3,"Good content, but ran slightly over the scheduled time.",2024-02-24 22:38
+FB_00027,EVT_002,STU_1226,5,"Well organized, high energy, and great Q&A session.",2024-02-24 19:24
+FB_00028,EVT_002,STU_1298,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-24 22:14
+FB_00029,EVT_002,STU_1347,5,Hands-on exercises helped cement the theory perfectly.,2024-02-24 20:37
+FB_00030,EVT_002,STU_1019,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-24 20:27
+FB_00031,EVT_002,STU_1133,4,Outstanding speaker and very clear live coding examples!,2024-02-24 20:29
+FB_00032,EVT_002,STU_1240,5,The problem statements were challenging and engaging.,2024-02-24 19:39
+FB_00033,EVT_002,STU_1081,5,"Well organized, high energy, and great Q&A session.",2024-02-24 23:44
+FB_00034,EVT_002,STU_1082,4,Hands-on exercises helped cement the theory perfectly.,2024-02-24 19:37
+FB_00035,EVT_002,STU_1328,5,Outstanding speaker and very clear live coding examples!,2024-02-24 19:24
+FB_00036,EVT_002,STU_1282,4,"Well organized, high energy, and great Q&A session.",2024-02-24 23:12
+FB_00037,EVT_002,STU_1204,4,The problem statements were challenging and engaging.,2024-02-24 23:51
+FB_00038,EVT_002,STU_1127,5,Gained practical skills I can use for my resume project immediately.,2024-02-24 23:37
+FB_00039,EVT_002,STU_1038,5,Outstanding speaker and very clear live coding examples!,2024-02-24 22:32
+FB_00040,EVT_002,STU_1260,5,Outstanding speaker and very clear live coding examples!,2024-02-24 20:31
+FB_00041,EVT_002,STU_1121,5,"Well organized, high energy, and great Q&A session.",2024-02-24 22:58
+FB_00042,EVT_002,STU_1181,5,Outstanding speaker and very clear live coding examples!,2024-02-24 21:26
+FB_00043,EVT_002,STU_1083,3,"Decent event, venue was a bit crowded.",2024-02-24 23:10
+FB_00044,EVT_002,STU_1279,5,The problem statements were challenging and engaging.,2024-02-24 19:22
+FB_00045,EVT_002,STU_1001,5,The problem statements were challenging and engaging.,2024-02-24 19:23
+FB_00046,EVT_002,STU_1156,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-24 21:38
+FB_00047,EVT_002,STU_1136,5,Outstanding speaker and very clear live coding examples!,2024-02-24 19:50
+FB_00048,EVT_002,STU_1218,4,Gained practical skills I can use for my resume project immediately.,2024-02-24 21:45
+FB_00049,EVT_002,STU_1065,2,Pace was too fast for beginners; slides were hard to follow.,2024-02-24 20:17
+FB_00050,EVT_002,STU_1116,4,Gained practical skills I can use for my resume project immediately.,2024-02-24 22:55
+FB_00051,EVT_002,STU_1018,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-24 22:40
+FB_00052,EVT_002,STU_1128,4,The problem statements were challenging and engaging.,2024-02-24 23:19
+FB_00053,EVT_002,STU_1098,4,Outstanding speaker and very clear live coding examples!,2024-02-24 21:59
+FB_00054,EVT_002,STU_1066,5,"Well organized, high energy, and great Q&A session.",2024-02-24 23:27
+FB_00055,EVT_002,STU_1337,5,"Well organized, high energy, and great Q&A session.",2024-02-24 23:47
+FB_00056,EVT_002,STU_1047,5,Gained practical skills I can use for my resume project immediately.,2024-02-24 22:44
+FB_00057,EVT_002,STU_1026,5,Hands-on exercises helped cement the theory perfectly.,2024-02-24 23:34
+FB_00058,EVT_002,STU_1014,5,Gained practical skills I can use for my resume project immediately.,2024-02-24 20:46
+FB_00059,EVT_002,STU_1326,5,Outstanding speaker and very clear live coding examples!,2024-02-24 21:57
+FB_00060,EVT_002,STU_1220,5,The problem statements were challenging and engaging.,2024-02-24 20:41
+FB_00061,EVT_002,STU_1216,4,Hands-on exercises helped cement the theory perfectly.,2024-02-24 23:31
+FB_00062,EVT_002,STU_1035,5,Outstanding speaker and very clear live coding examples!,2024-02-24 23:39
+FB_00063,EVT_002,STU_1157,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-24 22:51
+FB_00064,EVT_002,STU_1287,4,The problem statements were challenging and engaging.,2024-02-24 21:31
+FB_00065,EVT_002,STU_1324,5,Outstanding speaker and very clear live coding examples!,2024-02-24 21:53
+FB_00066,EVT_002,STU_1317,5,"Well organized, high energy, and great Q&A session.",2024-02-24 22:44
+FB_00067,EVT_002,STU_1012,3,"Good content, but ran slightly over the scheduled time.",2024-02-24 20:50
+FB_00068,EVT_002,STU_1107,5,Gained practical skills I can use for my resume project immediately.,2024-02-24 19:37
+FB_00069,EVT_002,STU_1114,4,The problem statements were challenging and engaging.,2024-02-24 20:54
+FB_00070,EVT_004,STU_1108,3,"Useful material, would have appreciated more time for debugging exercises.",2024-01-25 20:34
+FB_00071,EVT_004,STU_1030,5,Gained practical skills I can use for my resume project immediately.,2024-01-25 19:30
+FB_00072,EVT_004,STU_1340,5,Gained practical skills I can use for my resume project immediately.,2024-01-25 20:12
+FB_00073,EVT_004,STU_1053,3,"Decent event, venue was a bit crowded.",2024-01-25 20:58
+FB_00074,EVT_004,STU_1041,5,Hands-on exercises helped cement the theory perfectly.,2024-01-25 19:15
+FB_00075,EVT_004,STU_1066,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-01-25 20:45
+FB_00076,EVT_004,STU_1026,5,Outstanding speaker and very clear live coding examples!,2024-01-25 21:25
+FB_00077,EVT_004,STU_1048,3,"Good content, but ran slightly over the scheduled time.",2024-01-25 20:36
+FB_00078,EVT_004,STU_1180,5,Outstanding speaker and very clear live coding examples!,2024-01-25 19:41
+FB_00079,EVT_004,STU_1164,4,Hands-on exercises helped cement the theory perfectly.,2024-01-25 23:25
+FB_00080,EVT_004,STU_1271,5,The problem statements were challenging and engaging.,2024-01-25 19:49
+FB_00081,EVT_004,STU_1037,5,Gained practical skills I can use for my resume project immediately.,2024-01-25 19:43
+FB_00082,EVT_004,STU_1300,4,Hands-on exercises helped cement the theory perfectly.,2024-01-25 23:42
+FB_00083,EVT_004,STU_1033,4,The problem statements were challenging and engaging.,2024-01-25 22:12
+FB_00084,EVT_004,STU_1305,5,"Well organized, high energy, and great Q&A session.",2024-01-25 19:32
+FB_00085,EVT_004,STU_1110,5,Gained practical skills I can use for my resume project immediately.,2024-01-25 19:59
+FB_00086,EVT_004,STU_1212,5,Gained practical skills I can use for my resume project immediately.,2024-01-25 19:32
+FB_00087,EVT_004,STU_1075,4,The problem statements were challenging and engaging.,2024-01-25 22:50
+FB_00088,EVT_004,STU_1282,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-01-25 19:55
+FB_00089,EVT_004,STU_1216,5,Outstanding speaker and very clear live coding examples!,2024-01-25 21:22
+FB_00090,EVT_004,STU_1299,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-01-25 19:30
+FB_00091,EVT_004,STU_1287,5,Hands-on exercises helped cement the theory perfectly.,2024-01-25 22:26
+FB_00092,EVT_004,STU_1220,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-01-25 21:32
+FB_00093,EVT_004,STU_1245,4,"Well organized, high energy, and great Q&A session.",2024-01-25 21:17
+FB_00094,EVT_006,STU_1335,3,"Decent event, venue was a bit crowded.",2024-03-24 19:17
+FB_00095,EVT_006,STU_1346,4,"Well organized, high energy, and great Q&A session.",2024-03-24 21:31
+FB_00096,EVT_006,STU_1140,4,Hands-on exercises helped cement the theory perfectly.,2024-03-24 22:32
+FB_00097,EVT_006,STU_1288,5,The problem statements were challenging and engaging.,2024-03-24 21:14
+FB_00098,EVT_006,STU_1041,3,"Good content, but ran slightly over the scheduled time.",2024-03-24 19:31
+FB_00099,EVT_006,STU_1121,4,Gained practical skills I can use for my resume project immediately.,2024-03-24 23:21
+FB_00100,EVT_006,STU_1091,5,Hands-on exercises helped cement the theory perfectly.,2024-03-24 22:39
+FB_00101,EVT_006,STU_1065,3,"Decent event, venue was a bit crowded.",2024-03-24 20:21
+FB_00102,EVT_006,STU_1024,5,The problem statements were challenging and engaging.,2024-03-24 19:57
+FB_00103,EVT_006,STU_1164,4,The problem statements were challenging and engaging.,2024-03-24 23:37
+FB_00104,EVT_006,STU_1242,4,Gained practical skills I can use for my resume project immediately.,2024-03-24 21:58
+FB_00105,EVT_006,STU_1257,4,Hands-on exercises helped cement the theory perfectly.,2024-03-24 19:44
+FB_00106,EVT_006,STU_1028,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-24 20:39
+FB_00107,EVT_006,STU_1193,3,"Decent event, venue was a bit crowded.",2024-03-24 23:50
+FB_00108,EVT_006,STU_1119,3,"Decent event, venue was a bit crowded.",2024-03-24 23:35
+FB_00109,EVT_006,STU_1209,5,"Well organized, high energy, and great Q&A session.",2024-03-24 22:49
+FB_00110,EVT_006,STU_1300,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-24 23:47
+FB_00111,EVT_006,STU_1305,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-24 21:17
+FB_00112,EVT_006,STU_1314,3,"Good content, but ran slightly over the scheduled time.",2024-03-24 20:33
+FB_00113,EVT_006,STU_1073,5,The problem statements were challenging and engaging.,2024-03-24 23:18
+FB_00114,EVT_006,STU_1141,5,Gained practical skills I can use for my resume project immediately.,2024-03-24 22:50
+FB_00115,EVT_006,STU_1113,4,Hands-on exercises helped cement the theory perfectly.,2024-03-24 20:41
+FB_00116,EVT_006,STU_1105,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-24 21:38
+FB_00117,EVT_006,STU_1276,5,Outstanding speaker and very clear live coding examples!,2024-03-24 22:18
+FB_00118,EVT_006,STU_1195,3,"Decent event, venue was a bit crowded.",2024-03-24 23:42
+FB_00119,EVT_006,STU_1266,5,The problem statements were challenging and engaging.,2024-03-24 22:55
+FB_00120,EVT_006,STU_1152,5,Gained practical skills I can use for my resume project immediately.,2024-03-24 19:46
+FB_00121,EVT_006,STU_1001,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-24 21:12
+FB_00122,EVT_006,STU_1125,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-24 20:59
+FB_00123,EVT_006,STU_1022,5,Hands-on exercises helped cement the theory perfectly.,2024-03-24 23:17
+FB_00124,EVT_006,STU_1224,5,Hands-on exercises helped cement the theory perfectly.,2024-03-24 21:44
+FB_00125,EVT_006,STU_1343,4,The problem statements were challenging and engaging.,2024-03-24 23:23
+FB_00126,EVT_006,STU_1176,4,Gained practical skills I can use for my resume project immediately.,2024-03-24 21:12
+FB_00127,EVT_006,STU_1284,5,Outstanding speaker and very clear live coding examples!,2024-03-24 22:17
+FB_00128,EVT_006,STU_1051,4,Gained practical skills I can use for my resume project immediately.,2024-03-24 23:54
+FB_00129,EVT_006,STU_1016,5,Gained practical skills I can use for my resume project immediately.,2024-03-24 23:18
+FB_00130,EVT_006,STU_1031,4,Outstanding speaker and very clear live coding examples!,2024-03-24 23:32
+FB_00131,EVT_006,STU_1017,4,"Well organized, high energy, and great Q&A session.",2024-03-24 21:28
+FB_00132,EVT_006,STU_1163,4,Gained practical skills I can use for my resume project immediately.,2024-03-24 22:13
+FB_00133,EVT_006,STU_1060,4,Gained practical skills I can use for my resume project immediately.,2024-03-24 20:19
+FB_00134,EVT_006,STU_1057,4,The problem statements were challenging and engaging.,2024-03-24 22:19
+FB_00135,EVT_006,STU_1229,5,The problem statements were challenging and engaging.,2024-03-24 22:38
+FB_00136,EVT_007,STU_1203,3,"Good content, but ran slightly over the scheduled time.",2024-04-07 23:33
+FB_00137,EVT_007,STU_1175,3,"Good content, but ran slightly over the scheduled time.",2024-04-07 20:24
+FB_00138,EVT_007,STU_1081,4,The problem statements were challenging and engaging.,2024-04-07 19:39
+FB_00139,EVT_007,STU_1145,5,"Well organized, high energy, and great Q&A session.",2024-04-07 19:45
+FB_00140,EVT_007,STU_1325,5,Gained practical skills I can use for my resume project immediately.,2024-04-07 21:46
+FB_00141,EVT_007,STU_1340,4,The problem statements were challenging and engaging.,2024-04-07 21:47
+FB_00142,EVT_007,STU_1137,4,Hands-on exercises helped cement the theory perfectly.,2024-04-07 20:19
+FB_00143,EVT_007,STU_1154,2,Pace was too fast for beginners; slides were hard to follow.,2024-04-07 20:44
+FB_00144,EVT_007,STU_1103,3,"Good content, but ran slightly over the scheduled time.",2024-04-07 21:10
+FB_00145,EVT_007,STU_1188,5,"Well organized, high energy, and great Q&A session.",2024-04-07 19:23
+FB_00146,EVT_007,STU_1232,4,The problem statements were challenging and engaging.,2024-04-07 22:13
+FB_00147,EVT_007,STU_1320,4,"Well organized, high energy, and great Q&A session.",2024-04-07 19:12
+FB_00148,EVT_007,STU_1080,5,"Well organized, high energy, and great Q&A session.",2024-04-07 22:57
+FB_00149,EVT_007,STU_1050,3,"Good content, but ran slightly over the scheduled time.",2024-04-07 23:18
+FB_00150,EVT_007,STU_1165,5,Outstanding speaker and very clear live coding examples!,2024-04-07 23:46
+FB_00151,EVT_007,STU_1111,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-07 20:28
+FB_00152,EVT_007,STU_1219,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-07 22:54
+FB_00153,EVT_007,STU_1047,5,"Well organized, high energy, and great Q&A session.",2024-04-07 22:27
+FB_00154,EVT_007,STU_1234,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-07 20:59
+FB_00155,EVT_007,STU_1349,4,Gained practical skills I can use for my resume project immediately.,2024-04-07 19:20
+FB_00156,EVT_007,STU_1172,5,The problem statements were challenging and engaging.,2024-04-07 19:44
+FB_00157,EVT_007,STU_1253,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-07 22:29
+FB_00158,EVT_007,STU_1024,4,Outstanding speaker and very clear live coding examples!,2024-04-07 20:53
+FB_00159,EVT_007,STU_1295,3,"Good content, but ran slightly over the scheduled time.",2024-04-07 20:30
+FB_00160,EVT_007,STU_1297,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-07 21:35
+FB_00161,EVT_007,STU_1225,5,"Well organized, high energy, and great Q&A session.",2024-04-07 20:11
+FB_00162,EVT_009,STU_1095,3,"Decent event, venue was a bit crowded.",2024-05-20 23:47
+FB_00163,EVT_009,STU_1301,3,"Good content, but ran slightly over the scheduled time.",2024-05-20 19:29
+FB_00164,EVT_009,STU_1080,5,Hands-on exercises helped cement the theory perfectly.,2024-05-20 23:43
+FB_00165,EVT_009,STU_1157,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-20 21:41
+FB_00166,EVT_009,STU_1314,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-20 20:35
+FB_00167,EVT_009,STU_1310,1,Prerequisites were not clearly communicated in advance.,2024-05-20 20:23
+FB_00168,EVT_009,STU_1115,4,Outstanding speaker and very clear live coding examples!,2024-05-20 21:55
+FB_00169,EVT_009,STU_1013,4,The problem statements were challenging and engaging.,2024-05-20 21:59
+FB_00170,EVT_009,STU_1137,4,Hands-on exercises helped cement the theory perfectly.,2024-05-20 19:52
+FB_00171,EVT_009,STU_1043,3,"Good content, but ran slightly over the scheduled time.",2024-05-20 19:54
+FB_00172,EVT_009,STU_1150,3,"Decent event, venue was a bit crowded.",2024-05-20 22:17
+FB_00173,EVT_009,STU_1031,5,Gained practical skills I can use for my resume project immediately.,2024-05-20 20:54
+FB_00174,EVT_009,STU_1242,4,"Well organized, high energy, and great Q&A session.",2024-05-20 22:52
+FB_00175,EVT_009,STU_1044,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-20 23:48
+FB_00176,EVT_009,STU_1082,5,Outstanding speaker and very clear live coding examples!,2024-05-20 23:56
+FB_00177,EVT_009,STU_1047,5,Outstanding speaker and very clear live coding examples!,2024-05-20 19:41
+FB_00178,EVT_009,STU_1094,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-20 21:43
+FB_00179,EVT_009,STU_1051,5,The problem statements were challenging and engaging.,2024-05-20 21:20
+FB_00180,EVT_009,STU_1001,3,"Decent event, venue was a bit crowded.",2024-05-20 20:54
+FB_00181,EVT_009,STU_1214,5,Gained practical skills I can use for my resume project immediately.,2024-05-20 19:10
+FB_00182,EVT_009,STU_1149,4,Hands-on exercises helped cement the theory perfectly.,2024-05-20 22:19
+FB_00183,EVT_009,STU_1267,4,Outstanding speaker and very clear live coding examples!,2024-05-20 21:51
+FB_00184,EVT_009,STU_1134,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-20 21:39
+FB_00185,EVT_009,STU_1102,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-20 19:28
+FB_00186,EVT_009,STU_1144,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-20 22:57
+FB_00187,EVT_009,STU_1015,3,"Good content, but ran slightly over the scheduled time.",2024-05-20 19:18
+FB_00188,EVT_009,STU_1211,4,"Well organized, high energy, and great Q&A session.",2024-05-20 21:38
+FB_00189,EVT_009,STU_1078,5,Outstanding speaker and very clear live coding examples!,2024-05-20 21:31
+FB_00190,EVT_009,STU_1225,3,"Decent event, venue was a bit crowded.",2024-05-20 22:39
+FB_00191,EVT_009,STU_1251,3,"Decent event, venue was a bit crowded.",2024-05-20 22:36
+FB_00192,EVT_009,STU_1084,4,Outstanding speaker and very clear live coding examples!,2024-05-20 20:54
+FB_00193,EVT_009,STU_1241,4,Outstanding speaker and very clear live coding examples!,2024-05-20 22:47
+FB_00194,EVT_009,STU_1027,5,Gained practical skills I can use for my resume project immediately.,2024-05-20 23:34
+FB_00195,EVT_010,STU_1164,4,Outstanding speaker and very clear live coding examples!,2024-02-03 21:23
+FB_00196,EVT_010,STU_1169,4,"Well organized, high energy, and great Q&A session.",2024-02-03 22:16
+FB_00197,EVT_010,STU_1240,4,Hands-on exercises helped cement the theory perfectly.,2024-02-03 22:25
+FB_00198,EVT_010,STU_1221,5,Outstanding speaker and very clear live coding examples!,2024-02-03 22:34
+FB_00199,EVT_010,STU_1197,5,Hands-on exercises helped cement the theory perfectly.,2024-02-03 19:10
+FB_00200,EVT_010,STU_1160,4,Hands-on exercises helped cement the theory perfectly.,2024-02-03 22:24
+FB_00201,EVT_010,STU_1329,5,Hands-on exercises helped cement the theory perfectly.,2024-02-03 23:57
+FB_00202,EVT_010,STU_1289,4,"Well organized, high energy, and great Q&A session.",2024-02-03 22:21
+FB_00203,EVT_010,STU_1259,4,Gained practical skills I can use for my resume project immediately.,2024-02-03 20:57
+FB_00204,EVT_010,STU_1328,5,Outstanding speaker and very clear live coding examples!,2024-02-03 22:27
+FB_00205,EVT_010,STU_1114,4,Gained practical skills I can use for my resume project immediately.,2024-02-03 23:26
+FB_00206,EVT_010,STU_1268,2,Prerequisites were not clearly communicated in advance.,2024-02-03 20:12
+FB_00207,EVT_010,STU_1127,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-03 23:13
+FB_00208,EVT_010,STU_1253,5,The problem statements were challenging and engaging.,2024-02-03 23:45
+FB_00209,EVT_010,STU_1038,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-03 23:24
+FB_00210,EVT_010,STU_1251,4,Hands-on exercises helped cement the theory perfectly.,2024-02-03 20:36
+FB_00211,EVT_010,STU_1295,5,Outstanding speaker and very clear live coding examples!,2024-02-03 21:24
+FB_00212,EVT_011,STU_1217,5,Hands-on exercises helped cement the theory perfectly.,2024-03-21 22:33
+FB_00213,EVT_011,STU_1109,5,Gained practical skills I can use for my resume project immediately.,2024-03-21 22:59
+FB_00214,EVT_011,STU_1091,3,"Good content, but ran slightly over the scheduled time.",2024-03-21 22:18
+FB_00215,EVT_011,STU_1085,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-21 19:28
+FB_00216,EVT_011,STU_1314,5,"Well organized, high energy, and great Q&A session.",2024-03-21 20:10
+FB_00217,EVT_011,STU_1235,4,Hands-on exercises helped cement the theory perfectly.,2024-03-21 23:17
+FB_00218,EVT_011,STU_1342,5,Gained practical skills I can use for my resume project immediately.,2024-03-21 21:36
+FB_00219,EVT_011,STU_1124,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-21 22:51
+FB_00220,EVT_011,STU_1343,5,Hands-on exercises helped cement the theory perfectly.,2024-03-21 22:46
+FB_00221,EVT_011,STU_1169,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-21 22:58
+FB_00222,EVT_011,STU_1207,3,"Decent event, venue was a bit crowded.",2024-03-21 20:33
+FB_00223,EVT_011,STU_1271,5,"Well organized, high energy, and great Q&A session.",2024-03-21 21:46
+FB_00224,EVT_011,STU_1222,3,"Decent event, venue was a bit crowded.",2024-03-21 20:52
+FB_00225,EVT_011,STU_1199,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-21 22:54
+FB_00226,EVT_011,STU_1177,4,Gained practical skills I can use for my resume project immediately.,2024-03-21 23:35
+FB_00227,EVT_011,STU_1058,4,Gained practical skills I can use for my resume project immediately.,2024-03-21 22:50
+FB_00228,EVT_011,STU_1116,1,Pace was too fast for beginners; slides were hard to follow.,2024-03-21 22:48
+FB_00229,EVT_011,STU_1228,4,"Well organized, high energy, and great Q&A session.",2024-03-21 20:33
+FB_00230,EVT_011,STU_1027,3,"Good content, but ran slightly over the scheduled time.",2024-03-21 22:35
+FB_00231,EVT_012,STU_1342,4,Gained practical skills I can use for my resume project immediately.,2024-03-22 22:24
+FB_00232,EVT_012,STU_1234,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-22 22:56
+FB_00233,EVT_012,STU_1174,3,"Decent event, venue was a bit crowded.",2024-03-22 21:56
+FB_00234,EVT_012,STU_1294,3,"Good content, but ran slightly over the scheduled time.",2024-03-22 22:55
+FB_00235,EVT_012,STU_1133,5,Hands-on exercises helped cement the theory perfectly.,2024-03-22 22:22
+FB_00236,EVT_012,STU_1204,5,"Well organized, high energy, and great Q&A session.",2024-03-22 22:27
+FB_00237,EVT_012,STU_1103,4,Outstanding speaker and very clear live coding examples!,2024-03-22 23:19
+FB_00238,EVT_012,STU_1211,5,Hands-on exercises helped cement the theory perfectly.,2024-03-22 21:39
+FB_00239,EVT_012,STU_1195,2,Prerequisites were not clearly communicated in advance.,2024-03-22 20:11
+FB_00240,EVT_012,STU_1184,5,Hands-on exercises helped cement the theory perfectly.,2024-03-22 20:30
+FB_00241,EVT_012,STU_1286,5,Gained practical skills I can use for my resume project immediately.,2024-03-22 23:53
+FB_00242,EVT_012,STU_1235,4,Hands-on exercises helped cement the theory perfectly.,2024-03-22 21:30
+FB_00243,EVT_012,STU_1206,5,Outstanding speaker and very clear live coding examples!,2024-03-22 19:43
+FB_00244,EVT_012,STU_1102,4,Gained practical skills I can use for my resume project immediately.,2024-03-22 20:12
+FB_00245,EVT_012,STU_1037,3,"Decent event, venue was a bit crowded.",2024-03-22 20:16
+FB_00246,EVT_012,STU_1193,3,"Decent event, venue was a bit crowded.",2024-03-22 22:43
+FB_00247,EVT_012,STU_1224,5,Outstanding speaker and very clear live coding examples!,2024-03-22 21:24
+FB_00248,EVT_012,STU_1226,4,Outstanding speaker and very clear live coding examples!,2024-03-22 20:51
+FB_00249,EVT_012,STU_1208,4,The problem statements were challenging and engaging.,2024-03-22 19:33
+FB_00250,EVT_012,STU_1086,5,"Well organized, high energy, and great Q&A session.",2024-03-22 19:49
+FB_00251,EVT_012,STU_1265,3,"Good content, but ran slightly over the scheduled time.",2024-03-22 19:29
+FB_00252,EVT_012,STU_1117,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-22 23:16
+FB_00253,EVT_012,STU_1002,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-22 23:34
+FB_00254,EVT_012,STU_1007,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-22 23:50
+FB_00255,EVT_012,STU_1343,5,Outstanding speaker and very clear live coding examples!,2024-03-22 23:32
+FB_00256,EVT_012,STU_1089,5,Outstanding speaker and very clear live coding examples!,2024-03-22 20:21
+FB_00257,EVT_012,STU_1261,5,Gained practical skills I can use for my resume project immediately.,2024-03-22 23:48
+FB_00258,EVT_012,STU_1059,5,"Well organized, high energy, and great Q&A session.",2024-03-22 23:30
+FB_00259,EVT_012,STU_1000,5,The problem statements were challenging and engaging.,2024-03-22 21:48
+FB_00260,EVT_012,STU_1232,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-22 22:59
+FB_00261,EVT_012,STU_1247,5,"Well organized, high energy, and great Q&A session.",2024-03-22 22:38
+FB_00262,EVT_012,STU_1132,4,Outstanding speaker and very clear live coding examples!,2024-03-22 21:48
+FB_00263,EVT_012,STU_1014,1,Experienced technical difficulties with the projector and Wi-Fi.,2024-03-22 19:29
+FB_00264,EVT_012,STU_1131,4,"Well organized, high energy, and great Q&A session.",2024-03-22 19:59
+FB_00265,EVT_012,STU_1253,5,Hands-on exercises helped cement the theory perfectly.,2024-03-22 23:45
+FB_00266,EVT_012,STU_1150,4,Outstanding speaker and very clear live coding examples!,2024-03-22 19:39
+FB_00267,EVT_012,STU_1281,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-22 21:33
+FB_00268,EVT_012,STU_1034,4,Gained practical skills I can use for my resume project immediately.,2024-03-22 21:29
+FB_00269,EVT_012,STU_1017,3,"Decent event, venue was a bit crowded.",2024-03-22 23:23
+FB_00270,EVT_012,STU_1207,5,The problem statements were challenging and engaging.,2024-03-22 20:41
+FB_00271,EVT_012,STU_1324,4,Hands-on exercises helped cement the theory perfectly.,2024-03-22 21:12
+FB_00272,EVT_012,STU_1313,5,Outstanding speaker and very clear live coding examples!,2024-03-22 19:59
+FB_00273,EVT_012,STU_1262,3,"Decent event, venue was a bit crowded.",2024-03-22 22:17
+FB_00274,EVT_012,STU_1145,4,Hands-on exercises helped cement the theory perfectly.,2024-03-22 19:50
+FB_00275,EVT_012,STU_1173,5,Outstanding speaker and very clear live coding examples!,2024-03-22 21:43
+FB_00276,EVT_012,STU_1180,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-22 21:42
+FB_00277,EVT_012,STU_1161,4,Outstanding speaker and very clear live coding examples!,2024-03-22 22:38
+FB_00278,EVT_012,STU_1327,4,Gained practical skills I can use for my resume project immediately.,2024-03-22 22:28
+FB_00279,EVT_013,STU_1287,5,The problem statements were challenging and engaging.,2024-05-16 19:21
+FB_00280,EVT_013,STU_1216,4,The problem statements were challenging and engaging.,2024-05-16 19:26
+FB_00281,EVT_013,STU_1225,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-16 19:15
+FB_00282,EVT_013,STU_1012,3,"Decent event, venue was a bit crowded.",2024-05-16 21:15
+FB_00283,EVT_013,STU_1187,5,Hands-on exercises helped cement the theory perfectly.,2024-05-16 23:20
+FB_00284,EVT_013,STU_1335,3,"Decent event, venue was a bit crowded.",2024-05-16 19:59
+FB_00285,EVT_013,STU_1226,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 23:52
+FB_00286,EVT_013,STU_1202,4,Gained practical skills I can use for my resume project immediately.,2024-05-16 20:59
+FB_00287,EVT_013,STU_1036,5,"Well organized, high energy, and great Q&A session.",2024-05-16 21:56
+FB_00288,EVT_013,STU_1069,5,"Well organized, high energy, and great Q&A session.",2024-05-16 20:17
+FB_00289,EVT_013,STU_1126,4,Outstanding speaker and very clear live coding examples!,2024-05-16 23:58
+FB_00290,EVT_013,STU_1317,3,"Decent event, venue was a bit crowded.",2024-05-16 22:41
+FB_00291,EVT_013,STU_1079,4,Hands-on exercises helped cement the theory perfectly.,2024-05-16 22:25
+FB_00292,EVT_013,STU_1204,3,"Decent event, venue was a bit crowded.",2024-05-16 22:36
+FB_00293,EVT_013,STU_1045,4,Gained practical skills I can use for my resume project immediately.,2024-05-16 23:27
+FB_00294,EVT_013,STU_1066,4,Outstanding speaker and very clear live coding examples!,2024-05-16 20:19
+FB_00295,EVT_013,STU_1319,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 19:19
+FB_00296,EVT_013,STU_1304,5,"Well organized, high energy, and great Q&A session.",2024-05-16 19:13
+FB_00297,EVT_013,STU_1134,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-16 20:53
+FB_00298,EVT_013,STU_1097,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-16 22:57
+FB_00299,EVT_013,STU_1222,4,Outstanding speaker and very clear live coding examples!,2024-05-16 21:30
+FB_00300,EVT_013,STU_1343,3,"Decent event, venue was a bit crowded.",2024-05-16 19:58
+FB_00301,EVT_013,STU_1175,4,"Well organized, high energy, and great Q&A session.",2024-05-16 22:18
+FB_00302,EVT_013,STU_1191,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 21:43
+FB_00303,EVT_013,STU_1100,4,Gained practical skills I can use for my resume project immediately.,2024-05-16 23:13
+FB_00304,EVT_013,STU_1249,3,"Good content, but ran slightly over the scheduled time.",2024-05-16 22:56
+FB_00305,EVT_014,STU_1048,3,"Decent event, venue was a bit crowded.",2024-02-22 19:50
+FB_00306,EVT_014,STU_1083,5,Outstanding speaker and very clear live coding examples!,2024-02-22 22:57
+FB_00307,EVT_014,STU_1084,3,"Good content, but ran slightly over the scheduled time.",2024-02-22 20:11
+FB_00308,EVT_014,STU_1273,4,The problem statements were challenging and engaging.,2024-02-22 22:14
+FB_00309,EVT_014,STU_1305,5,The problem statements were challenging and engaging.,2024-02-22 23:38
+FB_00310,EVT_014,STU_1318,4,Outstanding speaker and very clear live coding examples!,2024-02-22 21:13
+FB_00311,EVT_014,STU_1244,3,"Good content, but ran slightly over the scheduled time.",2024-02-22 22:17
+FB_00312,EVT_014,STU_1036,3,"Decent event, venue was a bit crowded.",2024-02-22 23:19
+FB_00313,EVT_014,STU_1060,4,Outstanding speaker and very clear live coding examples!,2024-02-22 19:57
+FB_00314,EVT_014,STU_1139,3,"Good content, but ran slightly over the scheduled time.",2024-02-22 22:49
+FB_00315,EVT_014,STU_1153,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-22 19:21
+FB_00316,EVT_014,STU_1266,5,Outstanding speaker and very clear live coding examples!,2024-02-22 22:49
+FB_00317,EVT_014,STU_1028,3,"Good content, but ran slightly over the scheduled time.",2024-02-22 19:17
+FB_00318,EVT_014,STU_1261,4,Outstanding speaker and very clear live coding examples!,2024-02-22 20:37
+FB_00319,EVT_014,STU_1210,3,"Decent event, venue was a bit crowded.",2024-02-22 21:17
+FB_00320,EVT_014,STU_1212,4,"Well organized, high energy, and great Q&A session.",2024-02-22 20:58
+FB_00321,EVT_014,STU_1347,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-22 21:14
+FB_00322,EVT_014,STU_1016,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-22 22:20
+FB_00323,EVT_014,STU_1246,4,The problem statements were challenging and engaging.,2024-02-22 20:47
+FB_00324,EVT_014,STU_1242,3,"Good content, but ran slightly over the scheduled time.",2024-02-22 23:34
+FB_00325,EVT_014,STU_1341,4,The problem statements were challenging and engaging.,2024-02-22 19:10
+FB_00326,EVT_014,STU_1297,1,Prerequisites were not clearly communicated in advance.,2024-02-22 23:28
+FB_00327,EVT_014,STU_1000,5,Gained practical skills I can use for my resume project immediately.,2024-02-22 20:19
+FB_00328,EVT_014,STU_1285,5,The problem statements were challenging and engaging.,2024-02-22 20:21
+FB_00329,EVT_014,STU_1051,4,Hands-on exercises helped cement the theory perfectly.,2024-02-22 20:55
+FB_00330,EVT_014,STU_1320,4,"Well organized, high energy, and great Q&A session.",2024-02-22 21:36
+FB_00331,EVT_014,STU_1079,1,Pace was too fast for beginners; slides were hard to follow.,2024-02-22 19:43
+FB_00332,EVT_014,STU_1039,5,Hands-on exercises helped cement the theory perfectly.,2024-02-22 23:24
+FB_00333,EVT_014,STU_1018,4,"Well organized, high energy, and great Q&A session.",2024-02-22 19:22
+FB_00334,EVT_014,STU_1238,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-22 22:41
+FB_00335,EVT_014,STU_1015,3,"Good content, but ran slightly over the scheduled time.",2024-02-22 19:51
+FB_00336,EVT_014,STU_1089,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-22 22:26
+FB_00337,EVT_014,STU_1130,3,"Decent event, venue was a bit crowded.",2024-02-22 19:16
+FB_00338,EVT_014,STU_1108,4,Gained practical skills I can use for my resume project immediately.,2024-02-22 19:41
+FB_00339,EVT_014,STU_1293,4,Gained practical skills I can use for my resume project immediately.,2024-02-22 22:47
+FB_00340,EVT_014,STU_1119,5,Gained practical skills I can use for my resume project immediately.,2024-02-22 21:24
+FB_00341,EVT_014,STU_1187,5,Gained practical skills I can use for my resume project immediately.,2024-02-22 19:25
+FB_00342,EVT_015,STU_1099,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-29 20:45
+FB_00343,EVT_015,STU_1007,5,"Well organized, high energy, and great Q&A session.",2024-02-29 20:33
+FB_00344,EVT_015,STU_1214,4,Hands-on exercises helped cement the theory perfectly.,2024-02-29 21:17
+FB_00345,EVT_015,STU_1323,5,The problem statements were challenging and engaging.,2024-02-29 20:39
+FB_00346,EVT_015,STU_1232,4,Outstanding speaker and very clear live coding examples!,2024-02-29 23:42
+FB_00347,EVT_015,STU_1283,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-29 22:28
+FB_00348,EVT_015,STU_1309,4,Hands-on exercises helped cement the theory perfectly.,2024-02-29 22:31
+FB_00349,EVT_015,STU_1044,5,Outstanding speaker and very clear live coding examples!,2024-02-29 20:53
+FB_00350,EVT_015,STU_1151,5,Outstanding speaker and very clear live coding examples!,2024-02-29 22:49
+FB_00351,EVT_015,STU_1295,5,"Well organized, high energy, and great Q&A session.",2024-02-29 19:30
+FB_00352,EVT_015,STU_1312,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-29 23:43
+FB_00353,EVT_015,STU_1267,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-29 20:11
+FB_00354,EVT_015,STU_1198,3,"Decent event, venue was a bit crowded.",2024-02-29 19:42
+FB_00355,EVT_015,STU_1074,5,"Well organized, high energy, and great Q&A session.",2024-02-29 23:48
+FB_00356,EVT_015,STU_1248,4,"Well organized, high energy, and great Q&A session.",2024-02-29 22:19
+FB_00357,EVT_015,STU_1236,5,"Well organized, high energy, and great Q&A session.",2024-02-29 22:33
+FB_00358,EVT_015,STU_1302,2,Experienced technical difficulties with the projector and Wi-Fi.,2024-02-29 21:38
+FB_00359,EVT_015,STU_1313,4,Gained practical skills I can use for my resume project immediately.,2024-02-29 22:57
+FB_00360,EVT_016,STU_1297,5,Hands-on exercises helped cement the theory perfectly.,2024-03-27 22:30
+FB_00361,EVT_016,STU_1299,5,Outstanding speaker and very clear live coding examples!,2024-03-27 20:31
+FB_00362,EVT_016,STU_1237,5,Gained practical skills I can use for my resume project immediately.,2024-03-27 23:29
+FB_00363,EVT_016,STU_1302,3,"Decent event, venue was a bit crowded.",2024-03-27 20:41
+FB_00364,EVT_016,STU_1134,4,Hands-on exercises helped cement the theory perfectly.,2024-03-27 20:28
+FB_00365,EVT_016,STU_1252,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-27 23:35
+FB_00366,EVT_016,STU_1163,4,Hands-on exercises helped cement the theory perfectly.,2024-03-27 19:47
+FB_00367,EVT_016,STU_1078,3,"Good content, but ran slightly over the scheduled time.",2024-03-27 23:43
+FB_00368,EVT_016,STU_1074,4,"Well organized, high energy, and great Q&A session.",2024-03-27 19:51
+FB_00369,EVT_016,STU_1306,5,The problem statements were challenging and engaging.,2024-03-27 23:30
+FB_00370,EVT_016,STU_1223,3,"Decent event, venue was a bit crowded.",2024-03-27 21:49
+FB_00371,EVT_016,STU_1095,4,Outstanding speaker and very clear live coding examples!,2024-03-27 23:21
+FB_00372,EVT_016,STU_1191,4,The problem statements were challenging and engaging.,2024-03-27 21:50
+FB_00373,EVT_016,STU_1321,5,Hands-on exercises helped cement the theory perfectly.,2024-03-27 19:43
+FB_00374,EVT_016,STU_1246,3,"Decent event, venue was a bit crowded.",2024-03-27 20:25
+FB_00375,EVT_016,STU_1251,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-27 22:36
+FB_00376,EVT_016,STU_1014,3,"Good content, but ran slightly over the scheduled time.",2024-03-27 20:36
+FB_00377,EVT_016,STU_1268,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-27 20:26
+FB_00378,EVT_016,STU_1106,4,The problem statements were challenging and engaging.,2024-03-27 20:17
+FB_00379,EVT_016,STU_1262,3,"Good content, but ran slightly over the scheduled time.",2024-03-27 20:29
+FB_00380,EVT_016,STU_1192,5,The problem statements were challenging and engaging.,2024-03-27 19:22
+FB_00381,EVT_016,STU_1024,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-27 19:26
+FB_00382,EVT_016,STU_1139,5,Hands-on exercises helped cement the theory perfectly.,2024-03-27 20:51
+FB_00383,EVT_016,STU_1212,5,Outstanding speaker and very clear live coding examples!,2024-03-27 19:15
+FB_00384,EVT_016,STU_1021,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-27 19:36
+FB_00385,EVT_016,STU_1071,4,The problem statements were challenging and engaging.,2024-03-27 20:25
+FB_00386,EVT_016,STU_1102,3,"Good content, but ran slightly over the scheduled time.",2024-03-27 23:52
+FB_00387,EVT_016,STU_1330,5,The problem statements were challenging and engaging.,2024-03-27 19:25
+FB_00388,EVT_016,STU_1069,5,"Well organized, high energy, and great Q&A session.",2024-03-27 23:57
+FB_00389,EVT_016,STU_1070,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-27 22:23
+FB_00390,EVT_016,STU_1283,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-27 20:27
+FB_00391,EVT_016,STU_1195,5,Hands-on exercises helped cement the theory perfectly.,2024-03-27 19:41
+FB_00392,EVT_016,STU_1153,4,"Well organized, high energy, and great Q&A session.",2024-03-27 23:37
+FB_00393,EVT_016,STU_1003,4,"Well organized, high energy, and great Q&A session.",2024-03-27 20:33
+FB_00394,EVT_016,STU_1217,5,"Well organized, high energy, and great Q&A session.",2024-03-27 19:51
+FB_00395,EVT_016,STU_1132,4,Outstanding speaker and very clear live coding examples!,2024-03-27 20:26
+FB_00396,EVT_016,STU_1029,5,"Well organized, high energy, and great Q&A session.",2024-03-27 19:44
+FB_00397,EVT_017,STU_1180,4,The problem statements were challenging and engaging.,2024-04-02 23:50
+FB_00398,EVT_017,STU_1144,4,"Well organized, high energy, and great Q&A session.",2024-04-02 22:37
+FB_00399,EVT_017,STU_1163,3,"Decent event, venue was a bit crowded.",2024-04-02 21:19
+FB_00400,EVT_017,STU_1208,5,Gained practical skills I can use for my resume project immediately.,2024-04-02 23:37
+FB_00401,EVT_017,STU_1280,3,"Good content, but ran slightly over the scheduled time.",2024-04-02 23:14
+FB_00402,EVT_017,STU_1162,4,Hands-on exercises helped cement the theory perfectly.,2024-04-02 22:36
+FB_00403,EVT_017,STU_1167,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-02 21:26
+FB_00404,EVT_017,STU_1321,4,Outstanding speaker and very clear live coding examples!,2024-04-02 22:21
+FB_00405,EVT_017,STU_1251,5,Outstanding speaker and very clear live coding examples!,2024-04-02 19:36
+FB_00406,EVT_017,STU_1102,5,"Well organized, high energy, and great Q&A session.",2024-04-02 23:56
+FB_00407,EVT_017,STU_1069,5,Hands-on exercises helped cement the theory perfectly.,2024-04-02 21:31
+FB_00408,EVT_017,STU_1014,4,Gained practical skills I can use for my resume project immediately.,2024-04-02 20:15
+FB_00409,EVT_017,STU_1205,5,Outstanding speaker and very clear live coding examples!,2024-04-02 22:44
+FB_00410,EVT_017,STU_1259,2,Pace was too fast for beginners; slides were hard to follow.,2024-04-02 19:20
+FB_00411,EVT_017,STU_1227,5,The problem statements were challenging and engaging.,2024-04-02 23:56
+FB_00412,EVT_017,STU_1154,5,The problem statements were challenging and engaging.,2024-04-02 21:15
+FB_00413,EVT_017,STU_1294,3,"Good content, but ran slightly over the scheduled time.",2024-04-02 20:17
+FB_00414,EVT_017,STU_1241,4,Outstanding speaker and very clear live coding examples!,2024-04-02 20:40
+FB_00415,EVT_017,STU_1328,4,The problem statements were challenging and engaging.,2024-04-02 23:22
+FB_00416,EVT_017,STU_1041,3,"Decent event, venue was a bit crowded.",2024-04-02 20:40
+FB_00417,EVT_017,STU_1043,4,Gained practical skills I can use for my resume project immediately.,2024-04-02 20:57
+FB_00418,EVT_017,STU_1323,5,The problem statements were challenging and engaging.,2024-04-02 19:38
+FB_00419,EVT_017,STU_1056,4,"Well organized, high energy, and great Q&A session.",2024-04-02 23:35
+FB_00420,EVT_017,STU_1215,3,"Good content, but ran slightly over the scheduled time.",2024-04-02 19:50
+FB_00421,EVT_017,STU_1231,5,The problem statements were challenging and engaging.,2024-04-02 22:57
+FB_00422,EVT_017,STU_1156,5,Outstanding speaker and very clear live coding examples!,2024-04-02 22:35
+FB_00423,EVT_017,STU_1130,5,Gained practical skills I can use for my resume project immediately.,2024-04-02 19:43
+FB_00424,EVT_017,STU_1051,2,Prerequisites were not clearly communicated in advance.,2024-04-02 19:27
+FB_00425,EVT_017,STU_1140,5,The problem statements were challenging and engaging.,2024-04-02 19:41
+FB_00426,EVT_017,STU_1170,5,The problem statements were challenging and engaging.,2024-04-02 22:11
+FB_00427,EVT_018,STU_1220,3,"Decent event, venue was a bit crowded.",2024-04-06 23:36
+FB_00428,EVT_018,STU_1080,3,"Good content, but ran slightly over the scheduled time.",2024-04-06 22:50
+FB_00429,EVT_018,STU_1308,3,"Good content, but ran slightly over the scheduled time.",2024-04-06 21:45
+FB_00430,EVT_018,STU_1150,4,Gained practical skills I can use for my resume project immediately.,2024-04-06 23:51
+FB_00431,EVT_018,STU_1257,5,Hands-on exercises helped cement the theory perfectly.,2024-04-06 22:38
+FB_00432,EVT_018,STU_1310,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-06 20:33
+FB_00433,EVT_018,STU_1067,4,Gained practical skills I can use for my resume project immediately.,2024-04-06 23:37
+FB_00434,EVT_018,STU_1066,5,Outstanding speaker and very clear live coding examples!,2024-04-06 19:39
+FB_00435,EVT_018,STU_1213,5,Gained practical skills I can use for my resume project immediately.,2024-04-06 19:13
+FB_00436,EVT_018,STU_1051,5,"Well organized, high energy, and great Q&A session.",2024-04-06 23:26
+FB_00437,EVT_018,STU_1053,5,"Well organized, high energy, and great Q&A session.",2024-04-06 20:47
+FB_00438,EVT_018,STU_1312,5,Outstanding speaker and very clear live coding examples!,2024-04-06 20:57
+FB_00439,EVT_018,STU_1144,4,"Well organized, high energy, and great Q&A session.",2024-04-06 19:35
+FB_00440,EVT_018,STU_1021,4,Hands-on exercises helped cement the theory perfectly.,2024-04-06 21:37
+FB_00441,EVT_018,STU_1023,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-06 21:50
+FB_00442,EVT_018,STU_1060,3,"Decent event, venue was a bit crowded.",2024-04-06 21:25
+FB_00443,EVT_018,STU_1105,5,"Well organized, high energy, and great Q&A session.",2024-04-06 20:39
+FB_00444,EVT_018,STU_1241,5,Outstanding speaker and very clear live coding examples!,2024-04-06 20:51
+FB_00445,EVT_018,STU_1106,5,Outstanding speaker and very clear live coding examples!,2024-04-06 19:53
+FB_00446,EVT_018,STU_1249,3,"Decent event, venue was a bit crowded.",2024-04-06 22:44
+FB_00447,EVT_018,STU_1322,3,"Good content, but ran slightly over the scheduled time.",2024-04-06 23:11
+FB_00448,EVT_018,STU_1089,5,Outstanding speaker and very clear live coding examples!,2024-04-06 21:34
+FB_00449,EVT_018,STU_1132,5,The problem statements were challenging and engaging.,2024-04-06 20:59
+FB_00450,EVT_018,STU_1024,4,Outstanding speaker and very clear live coding examples!,2024-04-06 22:33
+FB_00451,EVT_018,STU_1009,5,Outstanding speaker and very clear live coding examples!,2024-04-06 20:57
+FB_00452,EVT_018,STU_1316,2,Prerequisites were not clearly communicated in advance.,2024-04-06 21:22
+FB_00453,EVT_018,STU_1077,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-06 20:24
+FB_00454,EVT_018,STU_1136,5,Outstanding speaker and very clear live coding examples!,2024-04-06 21:41
+FB_00455,EVT_019,STU_1344,3,"Good content, but ran slightly over the scheduled time.",2024-05-07 20:54
+FB_00456,EVT_019,STU_1087,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-07 20:40
+FB_00457,EVT_019,STU_1267,5,The problem statements were challenging and engaging.,2024-05-07 20:35
+FB_00458,EVT_019,STU_1221,3,"Good content, but ran slightly over the scheduled time.",2024-05-07 21:10
+FB_00459,EVT_019,STU_1314,3,"Good content, but ran slightly over the scheduled time.",2024-05-07 23:17
+FB_00460,EVT_019,STU_1272,3,"Decent event, venue was a bit crowded.",2024-05-07 20:50
+FB_00461,EVT_019,STU_1026,5,Outstanding speaker and very clear live coding examples!,2024-05-07 19:22
+FB_00462,EVT_019,STU_1232,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-07 20:26
+FB_00463,EVT_019,STU_1065,5,Hands-on exercises helped cement the theory perfectly.,2024-05-07 20:21
+FB_00464,EVT_019,STU_1011,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-07 21:16
+FB_00465,EVT_019,STU_1289,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-07 22:51
+FB_00466,EVT_019,STU_1165,4,"Well organized, high energy, and great Q&A session.",2024-05-07 20:29
+FB_00467,EVT_019,STU_1056,5,"Well organized, high energy, and great Q&A session.",2024-05-07 20:43
+FB_00468,EVT_019,STU_1349,5,Outstanding speaker and very clear live coding examples!,2024-05-07 19:19
+FB_00469,EVT_019,STU_1326,4,Gained practical skills I can use for my resume project immediately.,2024-05-07 20:44
+FB_00470,EVT_020,STU_1298,5,"Well organized, high energy, and great Q&A session.",2024-02-20 22:45
+FB_00471,EVT_020,STU_1103,4,"Well organized, high energy, and great Q&A session.",2024-02-20 20:55
+FB_00472,EVT_020,STU_1256,4,Gained practical skills I can use for my resume project immediately.,2024-02-20 19:10
+FB_00473,EVT_020,STU_1240,5,The problem statements were challenging and engaging.,2024-02-20 22:36
+FB_00474,EVT_020,STU_1221,5,The problem statements were challenging and engaging.,2024-02-20 22:29
+FB_00475,EVT_020,STU_1226,4,The problem statements were challenging and engaging.,2024-02-20 19:17
+FB_00476,EVT_020,STU_1080,4,Gained practical skills I can use for my resume project immediately.,2024-02-20 22:26
+FB_00477,EVT_020,STU_1253,5,Hands-on exercises helped cement the theory perfectly.,2024-02-20 22:50
+FB_00478,EVT_020,STU_1205,4,The problem statements were challenging and engaging.,2024-02-20 22:57
+FB_00479,EVT_020,STU_1231,3,"Decent event, venue was a bit crowded.",2024-02-20 19:33
+FB_00480,EVT_020,STU_1196,4,Gained practical skills I can use for my resume project immediately.,2024-02-20 21:48
+FB_00481,EVT_020,STU_1242,4,"Well organized, high energy, and great Q&A session.",2024-02-20 20:48
+FB_00482,EVT_020,STU_1102,4,Outstanding speaker and very clear live coding examples!,2024-02-20 19:59
+FB_00483,EVT_020,STU_1292,3,"Decent event, venue was a bit crowded.",2024-02-20 22:55
+FB_00484,EVT_020,STU_1217,4,Hands-on exercises helped cement the theory perfectly.,2024-02-20 20:37
+FB_00485,EVT_020,STU_1139,3,"Decent event, venue was a bit crowded.",2024-02-20 21:54
+FB_00486,EVT_020,STU_1287,3,"Decent event, venue was a bit crowded.",2024-02-20 23:29
+FB_00487,EVT_020,STU_1111,4,Outstanding speaker and very clear live coding examples!,2024-02-20 23:59
+FB_00488,EVT_020,STU_1038,4,"Well organized, high energy, and great Q&A session.",2024-02-20 20:57
+FB_00489,EVT_020,STU_1064,5,Outstanding speaker and very clear live coding examples!,2024-02-20 20:41
+FB_00490,EVT_020,STU_1135,1,Prerequisites were not clearly communicated in advance.,2024-02-20 22:43
+FB_00491,EVT_020,STU_1137,5,The problem statements were challenging and engaging.,2024-02-20 20:21
+FB_00492,EVT_020,STU_1288,4,Gained practical skills I can use for my resume project immediately.,2024-02-20 22:21
+FB_00493,EVT_020,STU_1297,4,The problem statements were challenging and engaging.,2024-02-20 23:23
+FB_00494,EVT_020,STU_1174,3,"Good content, but ran slightly over the scheduled time.",2024-02-20 20:58
+FB_00495,EVT_020,STU_1070,3,"Decent event, venue was a bit crowded.",2024-02-20 22:50
+FB_00496,EVT_020,STU_1106,4,Gained practical skills I can use for my resume project immediately.,2024-02-20 19:28
+FB_00497,EVT_020,STU_1018,3,"Good content, but ran slightly over the scheduled time.",2024-02-20 21:14
+FB_00498,EVT_020,STU_1120,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-20 22:41
+FB_00499,EVT_020,STU_1077,4,Outstanding speaker and very clear live coding examples!,2024-02-20 19:27
+FB_00500,EVT_020,STU_1117,4,Hands-on exercises helped cement the theory perfectly.,2024-02-20 19:16
+FB_00501,EVT_020,STU_1184,3,"Good content, but ran slightly over the scheduled time.",2024-02-20 22:48
+FB_00502,EVT_020,STU_1021,5,The problem statements were challenging and engaging.,2024-02-20 22:58
+FB_00503,EVT_020,STU_1041,3,"Decent event, venue was a bit crowded.",2024-02-20 21:33
+FB_00504,EVT_020,STU_1162,5,"Well organized, high energy, and great Q&A session.",2024-02-20 20:33
+FB_00505,EVT_020,STU_1167,5,Hands-on exercises helped cement the theory perfectly.,2024-02-20 19:32
+FB_00506,EVT_020,STU_1195,4,Outstanding speaker and very clear live coding examples!,2024-02-20 22:54
+FB_00507,EVT_020,STU_1172,4,Outstanding speaker and very clear live coding examples!,2024-02-20 23:17
+FB_00508,EVT_020,STU_1183,5,Gained practical skills I can use for my resume project immediately.,2024-02-20 21:38
+FB_00509,EVT_020,STU_1269,5,Hands-on exercises helped cement the theory perfectly.,2024-02-20 22:52
+FB_00510,EVT_020,STU_1116,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-20 19:50
+FB_00511,EVT_020,STU_1216,4,"Well organized, high energy, and great Q&A session.",2024-02-20 22:24
+FB_00512,EVT_020,STU_1262,5,Hands-on exercises helped cement the theory perfectly.,2024-02-20 19:32
+FB_00513,EVT_020,STU_1156,5,Outstanding speaker and very clear live coding examples!,2024-02-20 22:28
+FB_00514,EVT_020,STU_1314,4,Hands-on exercises helped cement the theory perfectly.,2024-02-20 23:55
+FB_00515,EVT_020,STU_1265,4,The problem statements were challenging and engaging.,2024-02-20 19:29
+FB_00516,EVT_021,STU_1124,3,"Good content, but ran slightly over the scheduled time.",2024-03-14 23:38
+FB_00517,EVT_021,STU_1222,4,Gained practical skills I can use for my resume project immediately.,2024-03-14 19:33
+FB_00518,EVT_021,STU_1096,5,Outstanding speaker and very clear live coding examples!,2024-03-14 22:41
+FB_00519,EVT_021,STU_1276,5,Outstanding speaker and very clear live coding examples!,2024-03-14 21:53
+FB_00520,EVT_021,STU_1017,3,"Good content, but ran slightly over the scheduled time.",2024-03-14 21:29
+FB_00521,EVT_021,STU_1347,5,Gained practical skills I can use for my resume project immediately.,2024-03-14 19:57
+FB_00522,EVT_021,STU_1273,5,Gained practical skills I can use for my resume project immediately.,2024-03-14 21:51
+FB_00523,EVT_021,STU_1174,4,The problem statements were challenging and engaging.,2024-03-14 23:41
+FB_00524,EVT_021,STU_1119,3,"Good content, but ran slightly over the scheduled time.",2024-03-14 23:39
+FB_00525,EVT_021,STU_1059,3,"Useful material, would have appreciated more time for debugging exercises.",2024-03-14 19:10
+FB_00526,EVT_021,STU_1334,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-03-14 22:32
+FB_00527,EVT_021,STU_1031,2,Experienced technical difficulties with the projector and Wi-Fi.,2024-03-14 20:15
+FB_00528,EVT_021,STU_1132,4,The problem statements were challenging and engaging.,2024-03-14 19:41
+FB_00529,EVT_021,STU_1186,2,Pace was too fast for beginners; slides were hard to follow.,2024-03-14 22:35
+FB_00530,EVT_021,STU_1045,5,The problem statements were challenging and engaging.,2024-03-14 20:44
+FB_00531,EVT_021,STU_1223,4,The problem statements were challenging and engaging.,2024-03-14 22:20
+FB_00532,EVT_021,STU_1004,3,"Decent event, venue was a bit crowded.",2024-03-14 19:32
+FB_00533,EVT_021,STU_1255,4,Outstanding speaker and very clear live coding examples!,2024-03-14 20:28
+FB_00534,EVT_021,STU_1057,3,"Decent event, venue was a bit crowded.",2024-03-14 22:57
+FB_00535,EVT_021,STU_1337,3,"Good content, but ran slightly over the scheduled time.",2024-03-14 20:52
+FB_00536,EVT_021,STU_1193,3,"Decent event, venue was a bit crowded.",2024-03-14 21:17
+FB_00537,EVT_021,STU_1202,5,Gained practical skills I can use for my resume project immediately.,2024-03-14 21:58
+FB_00538,EVT_021,STU_1143,5,Hands-on exercises helped cement the theory perfectly.,2024-03-14 22:18
+FB_00539,EVT_021,STU_1188,3,"Good content, but ran slightly over the scheduled time.",2024-03-14 19:18
+FB_00540,EVT_021,STU_1266,3,"Good content, but ran slightly over the scheduled time.",2024-03-14 20:13
+FB_00541,EVT_021,STU_1000,5,The problem statements were challenging and engaging.,2024-03-14 23:57
+FB_00542,EVT_022,STU_1214,5,Hands-on exercises helped cement the theory perfectly.,2024-04-05 23:29
+FB_00543,EVT_022,STU_1078,5,Gained practical skills I can use for my resume project immediately.,2024-04-05 21:15
+FB_00544,EVT_022,STU_1164,4,Gained practical skills I can use for my resume project immediately.,2024-04-05 22:49
+FB_00545,EVT_022,STU_1179,3,"Decent event, venue was a bit crowded.",2024-04-05 20:57
+FB_00546,EVT_022,STU_1127,4,The problem statements were challenging and engaging.,2024-04-05 22:30
+FB_00547,EVT_022,STU_1052,5,The problem statements were challenging and engaging.,2024-04-05 20:13
+FB_00548,EVT_022,STU_1134,5,Gained practical skills I can use for my resume project immediately.,2024-04-05 21:16
+FB_00549,EVT_022,STU_1129,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-05 23:59
+FB_00550,EVT_022,STU_1324,4,Gained practical skills I can use for my resume project immediately.,2024-04-05 21:20
+FB_00551,EVT_022,STU_1309,4,Gained practical skills I can use for my resume project immediately.,2024-04-05 23:10
+FB_00552,EVT_022,STU_1302,5,Gained practical skills I can use for my resume project immediately.,2024-04-05 23:22
+FB_00553,EVT_022,STU_1186,4,Gained practical skills I can use for my resume project immediately.,2024-04-05 21:15
+FB_00554,EVT_022,STU_1006,4,Hands-on exercises helped cement the theory perfectly.,2024-04-05 22:12
+FB_00555,EVT_022,STU_1341,3,"Good content, but ran slightly over the scheduled time.",2024-04-05 21:10
+FB_00556,EVT_022,STU_1315,5,The problem statements were challenging and engaging.,2024-04-05 23:22
+FB_00557,EVT_022,STU_1261,3,"Decent event, venue was a bit crowded.",2024-04-05 21:18
+FB_00558,EVT_022,STU_1248,4,"Well organized, high energy, and great Q&A session.",2024-04-05 22:57
+FB_00559,EVT_022,STU_1208,4,Outstanding speaker and very clear live coding examples!,2024-04-05 23:34
+FB_00560,EVT_022,STU_1338,4,"Well organized, high energy, and great Q&A session.",2024-04-05 20:19
+FB_00561,EVT_022,STU_1020,4,Outstanding speaker and very clear live coding examples!,2024-04-05 20:23
+FB_00562,EVT_022,STU_1140,4,Gained practical skills I can use for my resume project immediately.,2024-04-05 23:43
+FB_00563,EVT_022,STU_1169,5,The problem statements were challenging and engaging.,2024-04-05 20:31
+FB_00564,EVT_022,STU_1190,3,"Decent event, venue was a bit crowded.",2024-04-05 19:55
+FB_00565,EVT_022,STU_1101,5,Gained practical skills I can use for my resume project immediately.,2024-04-05 20:49
+FB_00566,EVT_022,STU_1009,4,Hands-on exercises helped cement the theory perfectly.,2024-04-05 22:16
+FB_00567,EVT_022,STU_1301,4,"Well organized, high energy, and great Q&A session.",2024-04-05 23:15
+FB_00568,EVT_022,STU_1058,5,"Well organized, high energy, and great Q&A session.",2024-04-05 20:28
+FB_00569,EVT_022,STU_1310,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-05 23:33
+FB_00570,EVT_022,STU_1046,4,Gained practical skills I can use for my resume project immediately.,2024-04-05 22:26
+FB_00571,EVT_022,STU_1056,5,The problem statements were challenging and engaging.,2024-04-05 20:17
+FB_00572,EVT_022,STU_1322,5,Outstanding speaker and very clear live coding examples!,2024-04-05 21:28
+FB_00573,EVT_022,STU_1051,4,The problem statements were challenging and engaging.,2024-04-05 21:42
+FB_00574,EVT_022,STU_1241,5,"Well organized, high energy, and great Q&A session.",2024-04-05 19:53
+FB_00575,EVT_022,STU_1117,5,"Well organized, high energy, and great Q&A session.",2024-04-05 19:49
+FB_00576,EVT_022,STU_1074,4,Gained practical skills I can use for my resume project immediately.,2024-04-05 23:10
+FB_00577,EVT_022,STU_1245,3,"Good content, but ran slightly over the scheduled time.",2024-04-05 21:34
+FB_00578,EVT_022,STU_1066,3,"Decent event, venue was a bit crowded.",2024-04-05 19:24
+FB_00579,EVT_022,STU_1049,5,Outstanding speaker and very clear live coding examples!,2024-04-05 21:39
+FB_00580,EVT_022,STU_1143,5,Outstanding speaker and very clear live coding examples!,2024-04-05 19:21
+FB_00581,EVT_022,STU_1146,5,The problem statements were challenging and engaging.,2024-04-05 20:35
+FB_00582,EVT_022,STU_1349,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-05 21:48
+FB_00583,EVT_022,STU_1316,5,Outstanding speaker and very clear live coding examples!,2024-04-05 21:39
+FB_00584,EVT_022,STU_1270,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-05 22:19
+FB_00585,EVT_022,STU_1102,5,Hands-on exercises helped cement the theory perfectly.,2024-04-05 19:48
+FB_00586,EVT_022,STU_1057,4,"Well organized, high energy, and great Q&A session.",2024-04-05 22:40
+FB_00587,EVT_022,STU_1031,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-05 19:58
+FB_00588,EVT_022,STU_1019,5,"Well organized, high energy, and great Q&A session.",2024-04-05 20:15
+FB_00589,EVT_022,STU_1137,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-05 22:15
+FB_00590,EVT_022,STU_1184,3,"Decent event, venue was a bit crowded.",2024-04-05 22:43
+FB_00591,EVT_023,STU_1234,4,Hands-on exercises helped cement the theory perfectly.,2024-04-10 22:11
+FB_00592,EVT_023,STU_1223,4,The problem statements were challenging and engaging.,2024-04-10 21:21
+FB_00593,EVT_023,STU_1162,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-10 21:22
+FB_00594,EVT_023,STU_1243,4,The problem statements were challenging and engaging.,2024-04-10 21:52
+FB_00595,EVT_023,STU_1292,3,"Good content, but ran slightly over the scheduled time.",2024-04-10 20:50
+FB_00596,EVT_023,STU_1274,3,"Good content, but ran slightly over the scheduled time.",2024-04-10 19:39
+FB_00597,EVT_023,STU_1152,4,Outstanding speaker and very clear live coding examples!,2024-04-10 20:28
+FB_00598,EVT_023,STU_1077,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-10 19:14
+FB_00599,EVT_023,STU_1219,5,Gained practical skills I can use for my resume project immediately.,2024-04-10 22:16
+FB_00600,EVT_023,STU_1296,4,The problem statements were challenging and engaging.,2024-04-10 19:41
+FB_00601,EVT_023,STU_1208,4,Gained practical skills I can use for my resume project immediately.,2024-04-10 22:34
+FB_00602,EVT_023,STU_1255,5,Gained practical skills I can use for my resume project immediately.,2024-04-10 20:29
+FB_00603,EVT_023,STU_1305,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-04-10 23:50
+FB_00604,EVT_023,STU_1181,4,Outstanding speaker and very clear live coding examples!,2024-04-10 21:32
+FB_00605,EVT_023,STU_1007,4,Gained practical skills I can use for my resume project immediately.,2024-04-10 23:57
+FB_00606,EVT_023,STU_1074,3,"Good content, but ran slightly over the scheduled time.",2024-04-10 20:48
+FB_00607,EVT_023,STU_1165,3,"Good content, but ran slightly over the scheduled time.",2024-04-10 23:42
+FB_00608,EVT_024,STU_1101,3,"Good content, but ran slightly over the scheduled time.",2024-05-24 20:21
+FB_00609,EVT_024,STU_1098,3,"Decent event, venue was a bit crowded.",2024-05-24 20:10
+FB_00610,EVT_024,STU_1230,5,"Well organized, high energy, and great Q&A session.",2024-05-24 19:21
+FB_00611,EVT_024,STU_1209,4,Gained practical skills I can use for my resume project immediately.,2024-05-24 19:48
+FB_00612,EVT_024,STU_1309,3,"Decent event, venue was a bit crowded.",2024-05-24 23:10
+FB_00613,EVT_024,STU_1105,4,The problem statements were challenging and engaging.,2024-05-24 19:12
+FB_00614,EVT_024,STU_1330,5,Gained practical skills I can use for my resume project immediately.,2024-05-24 23:42
+FB_00615,EVT_024,STU_1271,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-24 19:16
+FB_00616,EVT_024,STU_1246,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-24 22:41
+FB_00617,EVT_024,STU_1092,5,The problem statements were challenging and engaging.,2024-05-24 21:33
+FB_00618,EVT_024,STU_1165,5,"Well organized, high energy, and great Q&A session.",2024-05-24 21:43
+FB_00619,EVT_024,STU_1318,5,Outstanding speaker and very clear live coding examples!,2024-05-24 21:53
+FB_00620,EVT_024,STU_1204,4,Gained practical skills I can use for my resume project immediately.,2024-05-24 22:24
+FB_00621,EVT_024,STU_1333,4,"Well organized, high energy, and great Q&A session.",2024-05-24 22:11
+FB_00622,EVT_024,STU_1058,3,"Decent event, venue was a bit crowded.",2024-05-24 21:23
+FB_00623,EVT_024,STU_1300,4,The problem statements were challenging and engaging.,2024-05-24 19:27
+FB_00624,EVT_024,STU_1143,5,Hands-on exercises helped cement the theory perfectly.,2024-05-24 20:26
+FB_00625,EVT_024,STU_1290,5,"Well organized, high energy, and great Q&A session.",2024-05-24 22:47
+FB_00626,EVT_024,STU_1015,5,"Well organized, high energy, and great Q&A session.",2024-05-24 20:12
+FB_00627,EVT_024,STU_1129,5,Hands-on exercises helped cement the theory perfectly.,2024-05-24 19:37
+FB_00628,EVT_024,STU_1223,5,"Well organized, high energy, and great Q&A session.",2024-05-24 19:10
+FB_00629,EVT_024,STU_1088,4,The problem statements were challenging and engaging.,2024-05-24 20:43
+FB_00630,EVT_024,STU_1305,4,"Well organized, high energy, and great Q&A session.",2024-05-24 22:28
+FB_00631,EVT_024,STU_1180,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-24 19:39
+FB_00632,EVT_024,STU_1201,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-24 23:17
+FB_00633,EVT_024,STU_1128,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-24 19:37
+FB_00634,EVT_024,STU_1159,3,"Good content, but ran slightly over the scheduled time.",2024-05-24 19:26
+FB_00635,EVT_024,STU_1282,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-24 23:52
+FB_00636,EVT_024,STU_1216,4,Outstanding speaker and very clear live coding examples!,2024-05-24 21:19
+FB_00637,EVT_025,STU_1347,3,"Decent event, venue was a bit crowded.",2024-01-24 20:52
+FB_00638,EVT_025,STU_1238,3,"Good content, but ran slightly over the scheduled time.",2024-01-24 21:12
+FB_00639,EVT_025,STU_1192,5,Outstanding speaker and very clear live coding examples!,2024-01-24 23:58
+FB_00640,EVT_025,STU_1301,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 20:58
+FB_00641,EVT_025,STU_1326,2,Experienced technical difficulties with the projector and Wi-Fi.,2024-01-24 19:16
+FB_00642,EVT_025,STU_1278,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 22:37
+FB_00643,EVT_025,STU_1333,5,Gained practical skills I can use for my resume project immediately.,2024-01-24 22:39
+FB_00644,EVT_025,STU_1279,4,Gained practical skills I can use for my resume project immediately.,2024-01-24 19:27
+FB_00645,EVT_025,STU_1330,5,Outstanding speaker and very clear live coding examples!,2024-01-24 20:59
+FB_00646,EVT_025,STU_1235,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 22:12
+FB_00647,EVT_025,STU_1327,5,"Well organized, high energy, and great Q&A session.",2024-01-24 21:51
+FB_00648,EVT_025,STU_1054,4,Outstanding speaker and very clear live coding examples!,2024-01-24 21:46
+FB_00649,EVT_025,STU_1213,5,Gained practical skills I can use for my resume project immediately.,2024-01-24 22:39
+FB_00650,EVT_025,STU_1154,1,Experienced technical difficulties with the projector and Wi-Fi.,2024-01-24 19:32
+FB_00651,EVT_025,STU_1114,4,The problem statements were challenging and engaging.,2024-01-24 19:47
+FB_00652,EVT_025,STU_1308,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 23:30
+FB_00653,EVT_025,STU_1210,5,Gained practical skills I can use for my resume project immediately.,2024-01-24 21:59
+FB_00654,EVT_025,STU_1201,5,The problem statements were challenging and engaging.,2024-01-24 20:24
+FB_00655,EVT_025,STU_1028,4,Hands-on exercises helped cement the theory perfectly.,2024-01-24 19:24
+FB_00656,EVT_025,STU_1345,3,"Good content, but ran slightly over the scheduled time.",2024-01-24 20:53
+FB_00657,EVT_025,STU_1128,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 21:12
+FB_00658,EVT_025,STU_1133,4,Outstanding speaker and very clear live coding examples!,2024-01-24 21:26
+FB_00659,EVT_025,STU_1013,2,Prerequisites were not clearly communicated in advance.,2024-01-24 19:48
+FB_00660,EVT_025,STU_1284,3,"Good content, but ran slightly over the scheduled time.",2024-01-24 19:42
+FB_00661,EVT_025,STU_1248,4,Gained practical skills I can use for my resume project immediately.,2024-01-24 20:30
+FB_00662,EVT_025,STU_1336,5,Outstanding speaker and very clear live coding examples!,2024-01-24 22:28
+FB_00663,EVT_025,STU_1262,3,"Useful material, would have appreciated more time for debugging exercises.",2024-01-24 23:33
+FB_00664,EVT_025,STU_1181,3,"Decent event, venue was a bit crowded.",2024-01-24 21:40
+FB_00665,EVT_025,STU_1049,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 19:20
+FB_00666,EVT_025,STU_1223,3,"Useful material, would have appreciated more time for debugging exercises.",2024-01-24 20:47
+FB_00667,EVT_025,STU_1305,1,Experienced technical difficulties with the projector and Wi-Fi.,2024-01-24 23:55
+FB_00668,EVT_025,STU_1253,5,Gained practical skills I can use for my resume project immediately.,2024-01-24 22:47
+FB_00669,EVT_025,STU_1343,1,Experienced technical difficulties with the projector and Wi-Fi.,2024-01-24 19:14
+FB_00670,EVT_025,STU_1062,4,Hands-on exercises helped cement the theory perfectly.,2024-01-24 23:46
+FB_00671,EVT_025,STU_1138,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 19:43
+FB_00672,EVT_025,STU_1264,5,Hands-on exercises helped cement the theory perfectly.,2024-01-24 23:38
+FB_00673,EVT_025,STU_1065,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-01-24 23:28
+FB_00674,EVT_025,STU_1124,5,Gained practical skills I can use for my resume project immediately.,2024-01-24 21:24
+FB_00675,EVT_025,STU_1031,4,Gained practical skills I can use for my resume project immediately.,2024-01-24 22:56
+FB_00676,EVT_026,STU_1240,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-01-30 20:12
+FB_00677,EVT_026,STU_1214,5,Hands-on exercises helped cement the theory perfectly.,2024-01-30 22:50
+FB_00678,EVT_026,STU_1007,5,The problem statements were challenging and engaging.,2024-01-30 23:52
+FB_00679,EVT_026,STU_1146,5,Gained practical skills I can use for my resume project immediately.,2024-01-30 21:52
+FB_00680,EVT_026,STU_1208,5,Hands-on exercises helped cement the theory perfectly.,2024-01-30 21:44
+FB_00681,EVT_026,STU_1229,4,Gained practical skills I can use for my resume project immediately.,2024-01-30 19:58
+FB_00682,EVT_026,STU_1291,5,The problem statements were challenging and engaging.,2024-01-30 21:25
+FB_00683,EVT_026,STU_1323,4,Gained practical skills I can use for my resume project immediately.,2024-01-30 22:30
+FB_00684,EVT_026,STU_1185,5,The problem statements were challenging and engaging.,2024-01-30 20:59
+FB_00685,EVT_026,STU_1174,5,Hands-on exercises helped cement the theory perfectly.,2024-01-30 22:53
+FB_00686,EVT_026,STU_1017,3,"Useful material, would have appreciated more time for debugging exercises.",2024-01-30 21:42
+FB_00687,EVT_026,STU_1258,3,"Decent event, venue was a bit crowded.",2024-01-30 19:45
+FB_00688,EVT_027,STU_1269,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-17 20:27
+FB_00689,EVT_027,STU_1105,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-17 22:24
+FB_00690,EVT_027,STU_1006,5,Gained practical skills I can use for my resume project immediately.,2024-02-17 20:28
+FB_00691,EVT_027,STU_1043,3,"Decent event, venue was a bit crowded.",2024-02-17 21:15
+FB_00692,EVT_027,STU_1113,5,"Well organized, high energy, and great Q&A session.",2024-02-17 23:38
+FB_00693,EVT_027,STU_1165,4,Outstanding speaker and very clear live coding examples!,2024-02-17 23:34
+FB_00694,EVT_027,STU_1099,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-17 22:32
+FB_00695,EVT_027,STU_1274,5,Gained practical skills I can use for my resume project immediately.,2024-02-17 21:54
+FB_00696,EVT_027,STU_1138,5,Outstanding speaker and very clear live coding examples!,2024-02-17 23:59
+FB_00697,EVT_027,STU_1248,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-17 22:26
+FB_00698,EVT_027,STU_1007,3,"Good content, but ran slightly over the scheduled time.",2024-02-17 23:52
+FB_00699,EVT_027,STU_1256,5,Gained practical skills I can use for my resume project immediately.,2024-02-17 22:47
+FB_00700,EVT_027,STU_1037,3,"Decent event, venue was a bit crowded.",2024-02-17 23:12
+FB_00701,EVT_027,STU_1039,3,"Good content, but ran slightly over the scheduled time.",2024-02-17 21:10
+FB_00702,EVT_027,STU_1168,3,"Decent event, venue was a bit crowded.",2024-02-17 21:31
+FB_00703,EVT_027,STU_1117,4,Gained practical skills I can use for my resume project immediately.,2024-02-17 21:29
+FB_00704,EVT_027,STU_1110,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-17 19:38
+FB_00705,EVT_027,STU_1217,5,Hands-on exercises helped cement the theory perfectly.,2024-02-17 23:54
+FB_00706,EVT_027,STU_1021,5,The problem statements were challenging and engaging.,2024-02-17 20:26
+FB_00707,EVT_027,STU_1209,5,The problem statements were challenging and engaging.,2024-02-17 22:29
+FB_00708,EVT_027,STU_1308,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-17 23:16
+FB_00709,EVT_027,STU_1226,5,Hands-on exercises helped cement the theory perfectly.,2024-02-17 22:47
+FB_00710,EVT_027,STU_1085,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-17 21:48
+FB_00711,EVT_027,STU_1305,4,Hands-on exercises helped cement the theory perfectly.,2024-02-17 20:18
+FB_00712,EVT_027,STU_1322,4,Outstanding speaker and very clear live coding examples!,2024-02-17 21:59
+FB_00713,EVT_027,STU_1025,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-17 22:35
+FB_00714,EVT_027,STU_1212,3,"Good content, but ran slightly over the scheduled time.",2024-02-17 20:22
+FB_00715,EVT_027,STU_1011,5,"Well organized, high energy, and great Q&A session.",2024-02-17 19:21
+FB_00716,EVT_027,STU_1312,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-17 22:15
+FB_00717,EVT_027,STU_1316,4,Hands-on exercises helped cement the theory perfectly.,2024-02-17 21:10
+FB_00718,EVT_027,STU_1293,5,Outstanding speaker and very clear live coding examples!,2024-02-17 22:45
+FB_00719,EVT_027,STU_1023,4,The problem statements were challenging and engaging.,2024-02-17 22:39
+FB_00720,EVT_028,STU_1154,4,The problem statements were challenging and engaging.,2024-02-26 23:51
+FB_00721,EVT_028,STU_1198,5,The problem statements were challenging and engaging.,2024-02-26 20:50
+FB_00722,EVT_028,STU_1222,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-26 20:49
+FB_00723,EVT_028,STU_1096,4,Hands-on exercises helped cement the theory perfectly.,2024-02-26 23:56
+FB_00724,EVT_028,STU_1174,4,"Well organized, high energy, and great Q&A session.",2024-02-26 23:25
+FB_00725,EVT_028,STU_1042,3,"Decent event, venue was a bit crowded.",2024-02-26 19:33
+FB_00726,EVT_028,STU_1133,3,"Decent event, venue was a bit crowded.",2024-02-26 23:42
+FB_00727,EVT_028,STU_1039,4,The problem statements were challenging and engaging.,2024-02-26 21:56
+FB_00728,EVT_028,STU_1070,4,The problem statements were challenging and engaging.,2024-02-26 20:30
+FB_00729,EVT_028,STU_1022,3,"Good content, but ran slightly over the scheduled time.",2024-02-26 19:23
+FB_00730,EVT_028,STU_1273,5,Gained practical skills I can use for my resume project immediately.,2024-02-26 23:38
+FB_00731,EVT_028,STU_1246,4,The problem statements were challenging and engaging.,2024-02-26 23:51
+FB_00732,EVT_028,STU_1077,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-26 20:25
+FB_00733,EVT_028,STU_1335,4,Outstanding speaker and very clear live coding examples!,2024-02-26 19:53
+FB_00734,EVT_028,STU_1177,5,The problem statements were challenging and engaging.,2024-02-26 19:36
+FB_00735,EVT_028,STU_1047,4,Hands-on exercises helped cement the theory perfectly.,2024-02-26 23:55
+FB_00736,EVT_028,STU_1120,3,"Decent event, venue was a bit crowded.",2024-02-26 19:28
+FB_00737,EVT_028,STU_1312,4,"Well organized, high energy, and great Q&A session.",2024-02-26 22:55
+FB_00738,EVT_028,STU_1108,5,The problem statements were challenging and engaging.,2024-02-26 19:16
+FB_00739,EVT_028,STU_1256,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-26 23:58
+FB_00740,EVT_028,STU_1342,4,"Well organized, high energy, and great Q&A session.",2024-02-26 22:52
+FB_00741,EVT_028,STU_1092,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-02-26 22:23
+FB_00742,EVT_028,STU_1305,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-26 19:39
+FB_00743,EVT_028,STU_1238,5,Gained practical skills I can use for my resume project immediately.,2024-02-26 21:31
+FB_00744,EVT_028,STU_1173,3,"Decent event, venue was a bit crowded.",2024-02-26 21:38
+FB_00745,EVT_028,STU_1215,5,Hands-on exercises helped cement the theory perfectly.,2024-02-26 19:58
+FB_00746,EVT_028,STU_1068,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-26 19:24
+FB_00747,EVT_028,STU_1017,5,"Well organized, high energy, and great Q&A session.",2024-02-26 21:55
+FB_00748,EVT_028,STU_1300,3,"Useful material, would have appreciated more time for debugging exercises.",2024-02-26 22:55
+FB_00749,EVT_029,STU_1247,3,"Decent event, venue was a bit crowded.",2024-04-03 23:40
+FB_00750,EVT_029,STU_1193,4,The problem statements were challenging and engaging.,2024-04-03 22:25
+FB_00751,EVT_029,STU_1256,3,"Decent event, venue was a bit crowded.",2024-04-03 19:16
+FB_00752,EVT_029,STU_1260,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-03 21:44
+FB_00753,EVT_029,STU_1331,3,"Useful material, would have appreciated more time for debugging exercises.",2024-04-03 19:40
+FB_00754,EVT_029,STU_1298,3,"Good content, but ran slightly over the scheduled time.",2024-04-03 21:59
+FB_00755,EVT_029,STU_1300,4,Gained practical skills I can use for my resume project immediately.,2024-04-03 23:29
+FB_00756,EVT_029,STU_1176,4,The problem statements were challenging and engaging.,2024-04-03 20:30
+FB_00757,EVT_029,STU_1316,5,Hands-on exercises helped cement the theory perfectly.,2024-04-03 23:28
+FB_00758,EVT_029,STU_1075,4,Outstanding speaker and very clear live coding examples!,2024-04-03 21:33
+FB_00759,EVT_029,STU_1326,5,Gained practical skills I can use for my resume project immediately.,2024-04-03 20:30
+FB_00760,EVT_029,STU_1131,5,"Well organized, high energy, and great Q&A session.",2024-04-03 21:22
+FB_00761,EVT_030,STU_1041,3,"Decent event, venue was a bit crowded.",2024-05-16 20:59
+FB_00762,EVT_030,STU_1331,5,Outstanding speaker and very clear live coding examples!,2024-05-16 23:13
+FB_00763,EVT_030,STU_1340,5,Hands-on exercises helped cement the theory perfectly.,2024-05-16 19:59
+FB_00764,EVT_030,STU_1020,4,Hands-on exercises helped cement the theory perfectly.,2024-05-16 22:56
+FB_00765,EVT_030,STU_1234,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-16 20:48
+FB_00766,EVT_030,STU_1317,4,Gained practical skills I can use for my resume project immediately.,2024-05-16 19:51
+FB_00767,EVT_030,STU_1093,4,"Well organized, high energy, and great Q&A session.",2024-05-16 19:16
+FB_00768,EVT_030,STU_1009,5,The problem statements were challenging and engaging.,2024-05-16 22:54
+FB_00769,EVT_030,STU_1224,5,Gained practical skills I can use for my resume project immediately.,2024-05-16 19:29
+FB_00770,EVT_030,STU_1132,3,"Decent event, venue was a bit crowded.",2024-05-16 21:41
+FB_00771,EVT_030,STU_1008,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 22:22
+FB_00772,EVT_030,STU_1324,3,"Good content, but ran slightly over the scheduled time.",2024-05-16 21:38
+FB_00773,EVT_030,STU_1115,5,Outstanding speaker and very clear live coding examples!,2024-05-16 23:13
+FB_00774,EVT_030,STU_1327,4,"Well organized, high energy, and great Q&A session.",2024-05-16 19:20
+FB_00775,EVT_030,STU_1266,1,Pace was too fast for beginners; slides were hard to follow.,2024-05-16 21:34
+FB_00776,EVT_030,STU_1276,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 19:21
+FB_00777,EVT_030,STU_1294,3,"Decent event, venue was a bit crowded.",2024-05-16 20:44
+FB_00778,EVT_030,STU_1167,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 19:53
+FB_00779,EVT_030,STU_1119,5,Hands-on exercises helped cement the theory perfectly.,2024-05-16 20:38
+FB_00780,EVT_030,STU_1117,4,Hands-on exercises helped cement the theory perfectly.,2024-05-16 20:38
+FB_00781,EVT_030,STU_1235,3,"Good content, but ran slightly over the scheduled time.",2024-05-16 23:17
+FB_00782,EVT_030,STU_1193,5,"Well organized, high energy, and great Q&A session.",2024-05-16 19:32
+FB_00783,EVT_030,STU_1275,4,Outstanding speaker and very clear live coding examples!,2024-05-16 22:22
+FB_00784,EVT_030,STU_1310,5,The problem statements were challenging and engaging.,2024-05-16 23:34
+FB_00785,EVT_030,STU_1305,4,Hands-on exercises helped cement the theory perfectly.,2024-05-16 19:31
+FB_00786,EVT_030,STU_1230,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-16 20:41
+FB_00787,EVT_030,STU_1238,3,"Decent event, venue was a bit crowded.",2024-05-16 19:32
+FB_00788,EVT_030,STU_1282,3,"Decent event, venue was a bit crowded.",2024-05-16 23:16
+FB_00789,EVT_030,STU_1221,4,"Well organized, high energy, and great Q&A session.",2024-05-16 23:46
+FB_00790,EVT_030,STU_1024,5,Hands-on exercises helped cement the theory perfectly.,2024-05-16 20:28
+FB_00791,EVT_030,STU_1035,3,"Decent event, venue was a bit crowded.",2024-05-16 20:28
+FB_00792,EVT_030,STU_1065,5,The problem statements were challenging and engaging.,2024-05-16 22:34
+FB_00793,EVT_030,STU_1217,3,"Good content, but ran slightly over the scheduled time.",2024-05-16 22:16
+FB_00794,EVT_030,STU_1091,3,"Decent event, venue was a bit crowded.",2024-05-16 23:34
+FB_00795,EVT_030,STU_1191,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 19:43
+FB_00796,EVT_030,STU_1057,4,Outstanding speaker and very clear live coding examples!,2024-05-16 21:47
+FB_00797,EVT_030,STU_1071,4,"Well organized, high energy, and great Q&A session.",2024-05-16 19:44
+FB_00798,EVT_030,STU_1010,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 22:22
+FB_00799,EVT_030,STU_1031,3,"Good content, but ran slightly over the scheduled time.",2024-05-16 22:57
+FB_00800,EVT_030,STU_1106,4,Hands-on exercises helped cement the theory perfectly.,2024-05-16 21:53
+FB_00801,EVT_030,STU_1208,4,Outstanding speaker and very clear live coding examples!,2024-05-16 22:21
+FB_00802,EVT_030,STU_1328,5,Outstanding speaker and very clear live coding examples!,2024-05-16 20:41
+FB_00803,EVT_030,STU_1081,3,"Good content, but ran slightly over the scheduled time.",2024-05-16 19:34
+FB_00804,EVT_030,STU_1236,3,"Good content, but ran slightly over the scheduled time.",2024-05-16 21:10
+FB_00805,EVT_030,STU_1284,5,Gained practical skills I can use for my resume project immediately.,2024-05-16 22:24
+FB_00806,EVT_030,STU_1023,5,Outstanding speaker and very clear live coding examples!,2024-05-16 20:19
+FB_00807,EVT_030,STU_1202,5,The problem statements were challenging and engaging.,2024-05-16 23:55
+FB_00808,EVT_030,STU_1344,5,Gained practical skills I can use for my resume project immediately.,2024-05-16 21:36
+FB_00809,EVT_030,STU_1090,5,The problem statements were challenging and engaging.,2024-05-16 22:27
+FB_00810,EVT_030,STU_1105,4,The problem statements were challenging and engaging.,2024-05-16 21:48
+FB_00811,EVT_030,STU_1125,2,Pace was too fast for beginners; slides were hard to follow.,2024-05-16 22:18
+FB_00812,EVT_030,STU_1246,4,Outstanding speaker and very clear live coding examples!,2024-05-16 19:17
+FB_00813,EVT_030,STU_1205,3,"Decent event, venue was a bit crowded.",2024-05-16 19:21
+FB_00814,EVT_030,STU_1052,4,"Well organized, high energy, and great Q&A session.",2024-05-16 22:28
+FB_00815,EVT_030,STU_1103,5,Hands-on exercises helped cement the theory perfectly.,2024-05-16 21:16
+FB_00816,EVT_030,STU_1150,5,Gained practical skills I can use for my resume project immediately.,2024-05-16 19:45
+FB_00817,EVT_030,STU_1151,4,Gained practical skills I can use for my resume project immediately.,2024-05-16 23:12
+FB_00818,EVT_030,STU_1220,4,Outstanding speaker and very clear live coding examples!,2024-05-16 20:12
+FB_00819,EVT_030,STU_1279,4,Outstanding speaker and very clear live coding examples!,2024-05-16 19:25
+FB_00820,EVT_030,STU_1312,5,The problem statements were challenging and engaging.,2024-05-16 20:38
+FB_00821,EVT_030,STU_1286,4,Hands-on exercises helped cement the theory perfectly.,2024-05-16 20:59
+FB_00822,EVT_030,STU_1311,3,"Useful material, would have appreciated more time for debugging exercises.",2024-05-16 19:46
+FB_00823,EVT_030,STU_1038,1,Experienced technical difficulties with the projector and Wi-Fi.,2024-05-16 21:21
+FB_00824,EVT_030,STU_1213,3,"Solid presentation, though the introductory section felt a bit rushed.",2024-05-16 19:35

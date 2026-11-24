@@ -1,0 +1,24 @@
+{
+  "name": "smart-event-analytics-agent",
+  "version": "1.0.0",
+  "description": "Autonomous AI Agent for College Student Club & Event Performance Evaluation",
+  "main": "main.py",
+  "scripts": {
+    "dev": "python -m streamlit run app.py",
+    "start": "python main.py \"Analyze all technical events conducted last semester and tell me which clubs performed the best.\"",
+    "test": "python -m pytest tests/test_pipeline.py -v",
+    "generate-data": "python data_generation/generate_dummy_data.py --seed 42"
+  },
+  "keywords": [
+    "ai-agent",
+    "analytics",
+    "groq",
+    "streamlit",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "streamlit": "^2.51.2"
+  }
+}
